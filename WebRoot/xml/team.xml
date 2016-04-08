@@ -1,0 +1,69 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+
+<welcomepage>
+
+	<creativebanner
+		banneractive="false"
+		bannerwidth="780"
+		bannerheight="160"
+		
+		imagewidth="770"
+		imageheight="120"
+		
+		autoplay="true"
+		timerpauseonhover="false"
+		playpauseactivated="true"
+		
+		solidbackgroundcolor="0x222222"
+		solidbackgroundopacity="1"
+		
+		selectbuttonspacing="5"
+		selectbuttonpaddingleft="10"
+		selectbuttonpaddingbottom="10"
+		selectbuttonorientation="center"
+		selectbuttonstyle="dark"
+		
+		imageshadowopacity="0.8"
+		imageshadowblur="15"
+		imageshadowcolor="0x000000"
+		imageshadowdistance="15"
+		imageshadowangle="90"
+		
+		timerbarpos="bottom"
+		timerbarheight="3"
+		timerbarcolor="0xffffff"
+		timerbaropacity="0.2"
+	></creativebanner>
+	
+	<contenttext
+		contentheight="420"
+		contenttopdistance="0"
+		contentbgtexthpadding="20"
+		contentbgtextvpadding="20"
+		contentbgcolor="0x1e1a17"
+		contentbgopacity="0.95"
+		contentbgrounded="0"
+		contentscrollbarcolor="0x686868"
+		contentscrollbarwidth="10"
+		contentscrollbarheight="80"
+		contentscrollbarrounded="0"
+		contentscrollbaropacity="0.2"
+		contentscrollamount="80"
+		contentscrollease="4"
+		
+		textfieldheight="730"
+	>
+	<![CDATA[
+		<contentheadline1>The Restaurant Team</contentheadline1>
+		<content>
+		<br/><img align="left" src="images/team1.jpg" hspace="15" vspace="0"/><contentheadline2>The Executive Chef</contentheadline2>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. <br/><br/>
+		<img align="left" src="images/team2.jpg" hspace="15" vspace="0"/><contentheadline2>Service Personnel</contentheadline2>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. <br/><br/>
+		<img align="left" src="images/team3.jpg" hspace="15" vspace="0"/><contentheadline2>Professional Cooks</contentheadline2>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. <br/><br/>
+		<img align="left" src="images/team1.jpg" hspace="15" vspace="0"/><contentheadline2>The Executive Chef</contentheadline2>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. <br/><br/>
+		<img align="left" src="images/team2.jpg" hspace="15" vspace="0"/><contentheadline2>Service Personnel</contentheadline2>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. <br/><br/>
+		<img align="left" src="images/team3.jpg" hspace="15" vspace="0"/><contentheadline2>Professional Cooks</contentheadline2>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. <br/><br/>
+		</content>
+	]]>
+	</contenttext>
+
+</welcomepage>

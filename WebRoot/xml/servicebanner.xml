@@ -1,0 +1,155 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+
+<creativebanner
+	bannerwidth="780"
+	bannerheight="500"
+	
+	imagewidth="770"
+	imageheight="450"
+	
+	autoplay="true"
+	timerpauseonhover="false"
+	playpauseactivated="true"
+	
+	solidbackgroundcolor="0x1e1a17"
+	solidbackgroundopacity="1"
+	
+	selectbuttonspacing="0"
+	selectbuttonpaddingleft="0"
+	selectbuttonpaddingbottom="10"
+	selectbuttonorientation="center"
+	selectbuttonstyle="dark"
+	
+	imageshadowopacity="0.2"
+	imageshadowblur="7"
+	imageshadowcolor="0x000000"
+	imageshadowdistance="2"
+	imageshadowangle="90"
+	
+	timerbarpos="bottom"
+	timerbarheight="4"
+	timerbarcolor="0xffffff"
+	timerbaropacity="0.4"
+>
+
+	<banner
+		imageurl="images/bigbanner1.jpg"
+		imageshowtime="8"
+		imageclicklink="http://www.liweizone.com"
+		imageclicklinktarget="_blank"
+		animtilenumber="16"
+		animtiletime="0.8"
+		animtilefadetime="2"
+		animtilefxtime="2"
+		animtilefxstrength="2"
+		animtiledelay="0.07"
+		animtilepos="bottom"	
+		animeasingtype="Back"			
+	>
+		<textbox
+			textfontsize="26"
+			textfontcolor="0xffffff"
+			textfontopacity="1"
+			textbgcolor="0x473d36"
+			textbgopacity="0.8"
+			textbgpadding="5"
+			textanimdirection="top"
+			textanimoffset="50"
+			textanimtime="1"
+			textanimdelay="1.3"
+			textanimfxstrength="10"
+			textposx="20"
+			textposy="20"
+		>
+		Taste the Greatness of our
+		</textbox>
+		
+		<textbox
+			textfontsize="20"
+			textfontcolor="0x473d36"
+			textfontopacity="1"
+			textbgcolor="0xffffff"
+			textbgopacity="1"
+			textbgpadding="5"
+			textanimdirection="right"
+			textanimoffset="100"
+			textanimtime="0.7"
+			textanimdelay="1.5"
+			textanimfxstrength="0"
+			textposx="20"
+			textposy="70"
+		>
+		exclusive Foods!
+		</textbox>
+	</banner>
+	
+	<banner
+		imageurl="images/bigbanner2.jpg"
+		imageshowtime="5"
+		imageclicklink=""
+		imageclicklinktarget="_blank"
+		animtilenumber="10"
+		animtiletime="0.5"
+		animtilefadetime="2"
+		animtilefxtime="1"
+		animtilefxstrength="10"
+		animtiledelay="0.1"
+		animtilepos="top"	
+		animeasingtype="Cubic"				
+	>
+		<textbox
+			textfontsize="40"
+			textfontcolor="0xff6600"
+			textfontopacity="1"
+			textbgcolor="0xffffff"
+			textbgopacity="1"
+			textbgpadding="5"
+			textanimdirection="left"
+			textanimoffset="50"
+			textanimtime="1.4"
+			textanimdelay="0.8"
+			textanimfxstrength="3"
+			textposx="90"
+			textposy="320"
+		>
+		Come and visit 
+		</textbox>
+		
+		<textbox
+			textfontsize="27"
+			textfontcolor="0x222222"
+			textfontopacity="0.8"
+			textbgcolor="0xffffff"
+			textbgopacity="1"
+			textbgpadding="5"
+			textanimdirection="right"
+			textanimoffset="50"
+			textanimtime="1.4"
+			textanimdelay="1"
+			textanimfxstrength="3"
+			textposx="390"
+			textposy="350"
+		>
+		our Restaurant
+		</textbox>
+	</banner>
+	
+	<banner
+		imageurl="images/bigbanner3.jpg"
+		imageshowtime="5"
+		imageclicklink="http://www.liweizone.com"
+		imageclicklinktarget="_blank"
+		animtilenumber="1"
+		animtiletime="0.5"
+		animtilefadetime="1"
+		animtilefxtime="1"
+		animtilefxstrength="10"
+		animtiledelay="0.1"
+		animtilepos="bottom"	
+		animeasingtype="Expo"				
+	>
+		
+		
+	</banner>
+
+</creativebanner>

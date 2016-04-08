@@ -1,0 +1,55 @@
+<?xml version='1.0\' encoding='utf-8\' ?>
+<options>
+    <general websitetitle="欢迎访问清泉酒厂" headerminheight="90"
+    headermaxheight="150" headerbgcolor1="0x000000" headerbgcolor2="0x1b1510" headerbgalpha="1"
+    headerbgglarealpha="0.2" bodybgcolor="0x000000" bodybgalpha="0.3" templatewidth="980"
+    templateheight="500" logourl="logo/logo.png" logoorientation="center" logoheight="64"
+    logopadding="0" logoclicklink="preview.html#/teaser-welcome" logoclicktarget="_top"
+    menufont="Arial" textfont="Arial" menufontbold="true" menualign="center" menubarcolor1="0x2d251f"
+    menubarcolor2="0x000000" menubarshadowdistance="5" menubarshadowstrength="20" menubarshadowopacity="0.7"
+    menubaralpha="1" menubarheight="40" menubarpadding="0" menufontsize="12" menuspacing="30"
+    menuidlecolor="0xd4bdae" menuselectcolor="0xff9c00" menushadowdistance="0" menushadowstrength="0"
+    menushadowopacity="0" submenubgcolor="0x000000" submenubgalpha="0.9" submenufontsize="12"
+    submenupadding="30" submenuspacing="15" submenuidlecolor="0xbbbbbb" submenuselectcolor="0xff9c00"
+    submenubgshadowdistance="0" submenubgshadowstrength="0" submenubgshadowopacity="0"
+    moduletoppadding="0" footerheight="40" footerpadding="0" footerbgopacity="1" footerbgcolor="0x000000"
+    footerpixelopacity="1" footerpixelcolor="0x23170e" footershadowdistance="6" footershadowstrength="20"
+    footershadowopacity="0.6" footertextshadowdistance="1" footertextshadowstrength="1"
+    footertextshadowopacity="1" musicfullscreenrightpadding="30" musicfullscreenbottompadding="0"
+    musicfullscreencolor="0xaaaaaa" musicfullscreenopacity="0.4" />
+    <socialentries socialleftpadding="10" socialbottompadding="0" socialbgcolor="0x23170e"
+    socialbgrounded="5" socialtextcolor="0xffffff" socialtextsize="12" socialtextshadowalpha="0"
+    socialtextshadowblur="0" socialtextshadowcolor="0x000000" sociallogosize="20" sociallogospacing="5">
+        <socialentry iconlink="social/facebook.png" urllink="http://www.liweizone.com"
+        urltarget="_blank">
+            Facebook
+        </socialentry>
+        <socialentry iconlink="social/twitter.png" urllink="http://www.liweizone.com" urltarget="_blank">
+            Twitter
+        </socialentry>
+        <socialentry iconlink="social/flickr.png" urllink="http://www.liweizone.com" urltarget="_blank">
+            Flickr
+        </socialentry>
+        <socialentry iconlink="social/linkedin.png" urllink="http://www.liweizone.com"
+        urltarget="_blank">
+            LinkedIn
+        </socialentry>
+    </socialentries>
+    <musicentries musicactivated="true" musicvolumecolor="0xff9c00" musicvolumebgcolor="0x23170e"
+    musiciconcolor="0xffffff" musicbuttoncolor="0x473d36" musicstartvolume="0.7" musicplayerwidth="250"
+    musicplayerpadding="10" musicvolumeheight="30" musicentryheight="25" musicentryfontsize="12"
+    musicentryfontcolor="0xaaaaaa" musicentrybgcolor="0x1b1510" musicentrybgopacity="0.2">
+        <song urllink="music/cocktailparty_soundroll.mp3">
+            Soundroll - Cocktail Party
+        </song>
+        <song urllink="music/stars_soundroll.mp3">
+            Soundroll - Stars
+        </song>
+        <song urllink="music/shininglight_soundroll.mp3">
+            Soundroll - Shining Light
+        </song>
+    </musicentries>
+    <footertext>
+        <![CDATA[ <ft>2015 copyright http://www.qcjc.com/ | &nbsp;T e l: &nbsp; <a href="http://mail.qq.com/"> 15183517217</a></ft> ]]>
+    </footertext>
+</options>

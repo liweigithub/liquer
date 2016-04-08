@@ -1,0 +1,87 @@
+﻿<?xml version='1.0\' encoding='utf-8\' ?>
+<menuentries>
+    <mainmenu headline="首页" deeplink="" module="" modulexml="" modulealign="" modulewidth=""
+    moduleheight="" backgroundimage="" urllink="index.html" urltarget="">
+        <submenu headline="欢迎光临" deeplink="teaser-welcome" module="welcome.swf"
+        modulexml="xml/welcome.xml" modulealign="center" modulewidth="980" moduleheight="500"
+        backgroundimage="backgrounds/bg.jpg" urllink="" urltarget="" />
+        <submenu headline="火热销售" deeplink="deluxe-banner" module="alternatebanner.swf"
+        modulexml="xml/alternatebanner.xml" modulealign="center" modulewidth="800" moduleheight="500"
+        backgroundimage="backgrounds/bg.jpg" urllink="" urltarget="" />
+      <!--   <submenu headline="标准的旗帜 " deeplink="standard-banner" module="banner.swf"
+        modulexml="xml/servicebanner.xml" modulealign="center" modulewidth="780" moduleheight="500"
+        backgroundimage="backgrounds/bg.jpg" urllink="" urltarget="" /> -->
+    </mainmenu>
+    <mainmenu headline="大厅" deeplink="our-restaurant" module="" modulexml=""
+    	modulealign="" modulewidth="" moduleheight="" backgroundimage="" urllink="" urltarget="">
+        <submenu headline="关于食物" deeplink="about-food-deluxe" module="contentpage.swf"
+        modulexml="xml/contentpage1.xml" modulealign="top" modulewidth="980" moduleheight="0"
+        backgroundimage="backgrounds/bg2.jpg" urllink="" urltarget="" />
+        <submenu headline="办厂理念" deeplink="the-philosophy" module="contentpage.swf"
+        modulexml="xml/contentpage2.xml" modulealign="top" modulewidth="980" moduleheight="0"
+        backgroundimage="backgrounds/bg6.jpg" urllink="" urltarget="" />
+        <!-- 
+        <submenu headline="我们的团队" deeplink="our-qualified-team" module="contentpage.swf"
+        modulexml="xml/team.xml" modulealign="center" modulewidth="780" moduleheight="420"
+        backgroundimage="backgrounds/bg7.jpg" urllink="" urltarget="" /> 
+        -->
+    </mainmenu>
+    <mainmenu headline="商品" deeplink="" module="" modulexml="" modulealign=""
+    modulewidth="" moduleheight="" backgroundimage="" urllink="" urltarget="">
+        <submenu headline="主酿介绍" deeplink="main-courses" module="news.swf" modulexml="xml/maincourse.xml"
+        modulealign="center" modulewidth="780" moduleheight="475" backgroundimage="backgrounds/bg3.jpg"
+        urllink="" urltarget="" />
+        <submenu headline="其他产品" deeplink="desert-sweets" module="news.swf" modulexml="xml/desert.xml"
+        modulealign="center" modulewidth="780" moduleheight="475" backgroundimage="backgrounds/bg5.jpg"
+        urllink="" urltarget="" />
+       <submenu headline="最近动态" deeplink="starters-and-appetizers" module="news.swf"
+        modulexml="xml/starters.xml" modulealign="center" modulewidth="780" moduleheight="475"
+        backgroundimage="backgrounds/bg4.jpg" urllink="" urltarget="" />
+    </mainmenu>
+    <!--  
+    <mainmenu headline="影视" deeplink="" module="" modulexml="" modulealign=""
+    modulewidth="" moduleheight="" backgroundimage="" urllink="" urltarget="">
+        <submenu headline="Flash视频秀卷" deeplink="flash-video-show-reel" module="video.swf"
+        modulexml="xml/showreel.xml" modulealign="center" modulewidth="844" moduleheight="475"
+        backgroundimage="backgrounds/bg10.jpg" urllink="" urltarget="" />
+        <submenu headline="tubi显示" deeplink="youtube-show-reel" module="video.swf"
+        modulexml="xml/showreel_yt.xml" modulealign="center" modulewidth="844" moduleheight="475"
+        backgroundimage="backgrounds/bg10.jpg" urllink="" urltarget="" />
+    </mainmenu>
+    -->
+    <mainmenu headline="在线预订" deeplink="table-reservations" module="reservation.swf"
+    modulexml="xml/reservation.xml" modulealign="center" modulewidth="920" moduleheight="485"
+    backgroundimage="backgrounds/bg8.jpg" urllink="" urltarget="">
+    </mainmenu>
+    <mainmenu headline="反馈" deeplink="contact" module="contact.swf" modulexml="xml/contact.xml"
+    modulealign="center" modulewidth="780" moduleheight="485" backgroundimage="backgrounds/bg9.jpg"
+    urllink="" urltarget="">
+    </mainmenu>
+     <mainmenu headline="关于" deeplink="" module="" modulexml="" modulealign=""
+    modulewidth="" moduleheight="" backgroundimage="" urllink="" urltarget="">
+        <submenu headline="关于酒文化" deeplink="our-restaurant-4x2" module="mediagallery.swf"
+        modulexml="xml/mediagallery_4x2.xml" modulealign="center" modulewidth="920" moduleheight="500"
+        backgroundimage="backgrounds/bg7.jpg" urllink="" urltarget="" />
+     
+       <!--  <submenu headline="关于我们 4x3" deeplink="our-restaurant-4x3" module="mediagallery.swf"
+        modulexml="xml/mediagallery_4x3.xml" modulealign="center" modulewidth="920" moduleheight="500"
+        backgroundimage="backgrounds/bg7.jpg" urllink="" urltarget="" /> -->
+      
+      <!--  <submenu headline="酒厂地图" deeplink="our-restaurant-5x4" module="contentpage.swf"
+        modulexml="xml/about_addres.xml" modulealign="center" modulewidth="920" moduleheight="500"
+        backgroundimage="backgrounds/bg7.jpg" urllink="" urltarget="" /> -->
+        
+        <submenu headline="酒厂地图" deeplink="" module=""
+        modulexml="" modulealign="center" modulewidth="920" moduleheight="500"
+        backgroundimage="backgrounds/bg7.jpg" urllink="map.jsp" urltarget="_blank" />
+    </mainmenu>
+    <mainmenu headline="友情链接" deeplink="" module="" modulexml="" modulealign="" modulewidth=""
+    moduleheight="" backgroundimage="" urllink="" urltarget="">
+        <submenu headline="版权所有" deeplink="" module="" modulexml="" modulealign=""
+        modulewidth="" moduleheight="" backgroundimage="backgrounds/bg.jpg" urllink="copyright.html"
+        urltarget="" />
+        <submenu headline="微信客服" deeplink="" module="" modulexml="" modulealign=""
+        modulewidth="" moduleheight="" backgroundimage="backgrounds/bg.jpg" urllink="http://www.liweizone.com"
+        urltarget="_blank" />
+    </mainmenu>
+</menuentries>

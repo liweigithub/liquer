@@ -1,0 +1,130 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+
+<welcomepage>
+	
+	<teasers
+		teasercaptionbgcolor="0x111111"
+		teasercaptionbgopacity="0.9"
+		solidbackgroundcolor="0x1e1a17"
+		backgroundpatterncolor="0x000000"
+	>
+		
+		<teaser
+			imageurl="images/teaser1.jpg"
+			clicklink="index.html#/main-courses"
+			clicktarget="_top"
+		>
+		<![CDATA[
+			<teaserheadline>主酿简介</teaserheadline>
+			<teaser>
+				<br/>
+					 這里填写几种主酿的信息
+				<br/>
+			</teaser>
+			<teaserheadline>点击这里阅读更多!!</teaserheadline>
+		]]>
+		</teaser>
+		<teaser
+			imageurl="images/teaser2.jpg"
+			clicklink="index.html#/starters-and-appetizers"
+			clicktarget="_top"
+		>
+		<![CDATA[
+			<teaserheadline>点击查看最新动态</teaserheadline>
+			<teaser>
+				<br/>
+					额外人进来看v而考虑接耳机口连接二级路口额外人进口量额外加入可立即额外人看记录
+					金额为客人连接来客金额无人可立即额外客人进来进口了人家
+					额外人进
+				<br/>
+			</teaser>
+			<teaserheadline>点击这里阅读更多!!</teaserheadline>
+		]]>
+		</teaser>
+		
+		<teaser
+			imageurl="images/teaser3.jpg"
+			clicklink="index.html#/the-philosophy"
+			clicktarget="_top"
+		>
+		<![CDATA[
+			<teaserheadline>办厂简介</teaserheadline>
+			<teaser>
+				<br/>
+					這里填宗旨
+				<br/>
+			</teaser>
+			<teaserheadline>点击这里查看更多..</teaserheadline>
+		]]>
+		</teaser>
+		
+		<teaser
+			imageurl="images/teaser4.jpg"
+			clicklink="index.html#/deluxe-banner"
+			clicktarget="_top"
+		>
+		<![CDATA[
+			<teaserheadline>意大利面沙拉</teaserheadline>
+			<teaser><br/>四川省雅安市汉源县</teaserheadline>
+		]]>
+		</teaser>
+		
+		<teaser
+			imageurl="images/teaser5.jpg"
+			clicklink="index.html#/our-restaurant-5x4"
+			clicktarget="_top"
+		>
+		<![CDATA[
+			<teaserheadline>在线查看位置</teaserheadline>
+			<teaser>
+				<br/>
+					這里填详细位置
+				<br/>
+			</teaser>
+			<teaserheadline>点击定位..</teaserheadline>
+		]]>
+		</teaser>
+		
+		<teaser
+			imageurl="images/teaser6.jpg"
+			clicklink="index.html#/flash-video-show-reel"
+			clicktarget="_top"
+		>
+		<![CDATA[
+			<teaserheadline>每天自助沙拉</teaserheadline>
+			<teaser><br/>所得税看哈手机开的会尽快回家手机的客户机哈萨克的机会可结合撒旦进口货<br/></teaser>
+			<teaserheadline>点击这里阅读更多!!!!</teaserheadline>
+		]]>
+		</teaser>
+	</teasers>
+	
+	<welcometext
+		welcomeshadowopacity="0.4"
+	>
+	<![CDATA[
+		<scriptheadline>清泉</br>酒厂</scriptheadline><scripttext>欢迎来到清泉酒厂官方网站！!</scripttext>
+	]]>
+	</welcometext>
+	
+	<reservetable
+		reservecaptionbgcolor="0x420800"
+		reserveshadowopacity="1"
+		reserveimageurl="images/table.jpg"
+		reserveclicklink="index.html#/table-reservations"
+		reserveclicktarget="_top"
+	>
+	<![CDATA[
+		<reservetable>在线预订备酒!</reservetable>
+	]]>
+	</reservetable>
+	
+	<testimonial
+		testimonialshadowopacity="1"
+		testimonialimageurl="images/badge.png"
+	>
+	<![CDATA[
+		<testimonial>"酒香 ● 汉源，欢迎广大客户前来购买！"<br/></testimonial>
+		<smallwhite><font color="#ff9c00" size="15px">信誉:★★★★★<br/>质量:★★★★★<br/>服务:★★★★★</font> </smallwhite>
+	]]>
+	</testimonial>
+</welcomepage>

@@ -1,0 +1,91 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+
+<contactform 
+	formwidth="780"
+	formheight="485"
+
+	mailphpurl="feedBack.html"
+	imageurl="images/contact.jpg"
+	imagetarget="_blank"
+	imagewidth="320"
+	imageheight="475"
+	imagepadding="5"
+	imagesolidbackgroundcolor="0x1e1a17"
+	imagesolidbackgroundopacity="0.95"
+	imagesolidbackgroundrounded="0"
+	
+	imageshadowopacity="0.3"
+	imageshadowblur="7"
+	imageshadowcolor="0x000000"
+	imageshadowdistance="2"
+	imageshadowangle="90"
+	
+	mailphplink="mail.php"
+	
+	fieldbgcolor="0x1e1a17"
+	fieldbgopacity="0.8"
+	fieldbgrounded="0"
+	fieldfontcolor="0xcccccc"
+	fieldfontsize="12"
+	
+	errorbgcolor="0xffffff"
+	errorbgopacity="0.95"
+	errorfontcolor="0x333333"
+	errorfontsize="12"
+	
+	infobgcolor="0x1e1a17"
+	infobgopacity="0.95"
+	
+	btnbgcolor="0x111111"
+	btnfontcolor="0xaaaaaa"
+	btnfontsize="12"
+	
+	fonttype="Arial"
+>
+
+	<infotext>
+	<![CDATA[<scripttext2>诚心接受您的反馈!</scripttext2><content><br/>
+	地址: &nbsp; &nbsp;中国,四川,雅安,汉源,大田乡 <br/>
+	电话: &nbsp; &nbsp;(0830)15183517217<br/>
+	传真:  &nbsp; &nbsp; &nbsp;(800) 0830-4615277<br/><br/>
+	电子邮箱: <a href="http://mail.qq.com/">&nbsp; 1099532501@qq.com</a><br/>
+	网站: <a href="http://www.liweizone.com/">&nbsp; www.liweizone.com</a></content>]]>
+	</infotext>
+	
+	<name>
+	请在此输入的名字:
+	</name>
+	
+	<email>
+	请在此输入您的电子邮件地址:
+	</email>
+	
+	<message>
+	请在此输入您的反馈信息:
+	</message>
+	
+	<sendmail>
+	反馈
+	</sendmail>
+	
+	<errorname>
+	请输入您的名称!
+	</errorname>
+	
+	<erroremail>
+	请入您的电子邮件地址！
+	</erroremail>
+	
+	<errorfield>
+	请输入反馈信息!
+	</errorfield>
+	
+	<finished>
+	谢谢你的反馈,我们会在您的反馈下做的更好!
+	</finished>
+	
+	<notfinished>
+	抱歉,反馈失败!
+	</notfinished>
+	
+</contactform>

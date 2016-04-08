@@ -1,0 +1,942 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+
+<mediagallery
+	gallerywidth="940"
+	galleryheight="535"
+	gallerypadding="20"
+	categoryareaheight="20"
+	
+	categoryscrolltype="fixed"
+	categoryscrollspeed="5"
+	categoryscrollbuffer="150"
+	
+	thumbwidth="180"
+	thumbheight="107"
+	thumbspacing="0"
+	thumbrows="4"
+	thumbcolumns="5"
+	thumbscaleup="1.1"
+	thumbfxstrength="2"
+	thumbblurstrength="0"
+	thumbshadowstrength="10"
+	thumbshadowopacity="0.1"
+	thumbiconcolor="0xffffff"
+	thumbiconbgcolor="0x473d36"
+	thumbiconopacity="1"
+	
+	backgroundpatterncolor="0x000000"
+	backgroundpatternopacity="0.1"
+	solidbackgroundcolor="0xffffff"
+	solidbackgroundopacity="1"
+	gallerybackgroundcolor="0xffffff"
+	gallerybackgroundopacity="1"
+	
+	preloadoverlaycolor="0xffffff"
+	preloadoverlayopacity="0.85"
+	
+	selectarrowcolor="0xffffff"
+	selectarrowshadowopacity="0"
+	
+	nextpreviousareawidth="30"
+	
+	categoryfontsize="15"
+	categoryspacing="20"
+	categoryidleopacity="0.5"
+	categoryselectcolor="0x473d36"
+	categoryshadowopacity="1"
+	
+	categoryfont="ColaborateLight"
+	descriptionfont="ColaborateLight"
+	videoplayerfont="PF Ronda Seven"
+	
+	videointerfaceoverlay="true"
+	videomoveup="false"
+	videoautoplay="true"
+	videoloop="false"
+
+	videostartvolume="80"
+	videoplayerwidth="710"
+	videoplayerheight="400"
+	
+	videocontrolsvisible="true"
+	videocontrolshidetime="4"
+	videocontrolsanimationdelays="0.1"
+	
+	videobigplaysize="60"
+	videobigplayrounded="10"
+	videobigplayarrowcolor="0xffffff"
+	videobigplaybgcolor="0x000000"
+	videobigplaybgalpha="0.8"
+	
+	videobuttonbgcolor="0xffffff"
+	videobuttonbgalpha="0.2"
+	videobuttonalphahover="true"
+	videobuttonobjcolor="0x000000"
+	videobuttonsize="30"
+	videobuttonrounded="0"
+	videobuttonspacing="1"
+	videobuttonborderspacing="0"
+	videobuttonbottomspacing="0"
+	
+	videobarheight="1"
+	videobarareaheight="20"
+	videobarbgcolor="0xdddddd"
+	videobarbuffercolor="0xcccccc"
+	videobarcolor="0x473d36"
+	
+	videovolumewidth="80"
+	videovolumebarbgcolor="0xcccccc"
+	videovolumemutealpha="0.3"
+	
+	videoseekfontantialiasing="false"
+	videoseekfontcolor="0x000000"
+	videoseekfontsize="8"
+	videotooltipbgcolor="0x473d36"
+	videotooltipbgrounded="5"
+	videotooltipbgalpha="1"
+	videotooltipfontcolor="0xffffff"
+	videotooltipfontsize="8"
+	
+	videointerfacebgcolor="0xdddddd"
+	videointerfacebgalpha="1"
+>
+
+	<category
+		title="Mixed Media Category Example"			
+	>
+	
+		<entry
+			entrytype="image"
+			entrylink="images/p1.jpg"
+			entrythumblink="thumbs/p1.jpg"
+			videopreviewimage=""
+		>
+		<![CDATA[
+		<h1>这是a HTML/CSS style formatted caption text</h1><p>You can combine several styles and also add <a href="http://sc.chinaz.com/?user/damojo">URL-links</a></p>
+		]]>
+		</entry>
+		
+		<entry
+			entrytype="image"
+			entrylink="images/p2.jpg"
+			entrythumblink="thumbs/p2.jpg"
+			videopreviewimage=""
+		>
+		<![CDATA[
+		<h1>This is a HTML/CSS style formatted caption text</h1><p>You can combine several styles and also add <a href="http://sc.chinaz.com/?user/damojo">URL-links</a></p>
+		]]>
+		</entry>
+		
+		<entry
+			entrytype="image"
+			entrylink="images/p3.jpg"
+			entrythumblink="thumbs/p3.jpg"
+			videopreviewimage=""
+		>
+		<![CDATA[
+		<h1>This is a HTML/CSS style formatted caption text</h1><p>You can combine several styles and also add <a href="http://sc.chinaz.com/?user/damojo">URL-links</a></p>
+		]]>
+		</entry>
+		
+		<entry
+			entrytype="youtube"
+			entrylink="JVuUwvUUPro"
+			entrythumblink="thumbs/youtube.jpg"
+			videopreviewimage="http://i.ytimg.com/vi/JVuUwvUUPro/0.jpg"
+		>
+		<![CDATA[
+		<h1>This is a HTML/CSS style formatted caption text</h1><p>You can combine several styles and also add <a href="http://sc.chinaz.com/?user/damojo">URL-links</a></p>
+		]]>
+		</entry>
+		
+		<entry
+			entrytype="image"
+			entrylink="images/p4.jpg"
+			entrythumblink="thumbs/p4.jpg"
+			videopreviewimage=""
+		>
+		<![CDATA[
+		<h1>This is a HTML/CSS style formatted caption text</h1><p>You can combine several styles and also add <a href="http://sc.chinaz.com/?user/damojo">URL-links</a></p>
+		]]>
+		</entry>
+		
+		<entry
+			entrytype="image"
+			entrylink="images/p5.jpg"
+			entrythumblink="thumbs/p5.jpg"
+			videopreviewimage=""
+		>
+		<![CDATA[
+		<h1>This is a HTML/CSS style formatted caption text</h1><p>You can combine several styles and also add <a href="http://sc.chinaz.com/?user/damojo">URL-links</a></p>
+		]]>
+		</entry>
+		
+		<entry
+			entrytype="video"
+			entrylink="video/iinstallation.flv"
+			entrythumblink="thumbs/iinstallation.jpg"
+			videopreviewimage="previewimage/iinstallation.jpg"
+		>
+		<![CDATA[
+		<h1>This is a HTML/CSS style formatted caption text</h1><p>You can combine several styles and also add <a href="http://sc.chinaz.com/?user/damojo">URL-links</a></p>
+		]]>
+		</entry>
+		
+		<entry
+			entrytype="image"
+			entrylink="images/p6.jpg"
+			entrythumblink="thumbs/p6.jpg"
+			videopreviewimage=""
+		>
+		<![CDATA[
+		<h1>This is a HTML/CSS style formatted caption text</h1><p>You can combine several styles and also add <a href="http://sc.chinaz.com/?user/damojo">URL-links</a></p>
+		]]>
+		</entry>
+		
+		<entry
+			entrytype="image"
+			entrylink="images/p7.jpg"
+			entrythumblink="thumbs/p7.jpg"
+			videopreviewimage=""
+		>
+		<![CDATA[
+		<h1>This is a HTML/CSS style formatted caption text</h1><p>You can combine several styles and also add <a href="http://sc.chinaz.com/?user/damojo">URL-links</a></p>
+		]]>
+		</entry>
+		
+		<entry
+			entrytype="image"
+			entrylink="images/p8.jpg"
+			entrythumblink="thumbs/p8.jpg"
+			videopreviewimage=""
+		>
+		<![CDATA[
+		<h1>This is a HTML/CSS style formatted caption text</h1><p>You can combine several styles and also add <a href="http://sc.chinaz.com/?user/damojo">URL-links</a></p>
+		]]>
+		</entry>
+		
+		<entry
+			entrytype="image"
+			entrylink="images/p9.jpg"
+			entrythumblink="thumbs/p9.jpg"
+			videopreviewimage=""
+		>
+		<![CDATA[
+		<h1>This is a HTML/CSS style formatted caption text</h1><p>You can combine several styles and also add <a href="http://sc.chinaz.com/?user/damojo">URL-links</a></p>
+		]]>
+		</entry>
+		
+		<entry
+			entrytype="image"
+			entrylink="images/p10.jpg"
+			entrythumblink="thumbs/p10.jpg"
+			videopreviewimage=""
+		>
+		<![CDATA[
+		<h1>This is a HTML/CSS style formatted caption text</h1><p>You can combine several styles and also add <a href="http://sc.chinaz.com/?user/damojo">URL-links</a></p>
+		]]>
+		</entry>
+		
+		<entry
+			entrytype="image"
+			entrylink="images/p11.jpg"
+			entrythumblink="thumbs/p11.jpg"
+			videopreviewimage=""
+		>
+		<![CDATA[
+		<h1>This is a HTML/CSS style formatted caption text</h1><p>You can combine several styles and also add <a href="http://sc.chinaz.com/?user/damojo">URL-links</a></p>
+		]]>
+		</entry>
+		
+		<entry
+			entrytype="image"
+			entrylink="images/p12.jpg"
+			entrythumblink="thumbs/p12.jpg"
+			videopreviewimage=""
+		>
+		<![CDATA[
+		<h1>This is a HTML/CSS style formatted caption text</h1><p>You can combine several styles and also add <a href="http://sc.chinaz.com/?user/damojo">URL-links</a></p>
+		]]>
+		</entry>
+		
+		<entry
+			entrytype="image"
+			entrylink="images/p1.jpg"
+			entrythumblink="thumbs/p1.jpg"
+			videopreviewimage=""
+		>
+		<![CDATA[
+		<h1>This is a HTML/CSS style formatted caption text</h1><p>You can combine several styles and also add <a href="http://sc.chinaz.com/?user/damojo">URL-links</a></p>
+		]]>
+		</entry>
+		
+		<entry
+			entrytype="image"
+			entrylink="images/p2.jpg"
+			entrythumblink="thumbs/p2.jpg"
+			videopreviewimage=""
+		>
+		<![CDATA[
+		<h1>This is a HTML/CSS style formatted caption text</h1><p>You can combine several styles and also add <a href="http://sc.chinaz.com/?user/damojo">URL-links</a></p>
+		]]>
+		</entry>
+		
+		<entry
+			entrytype="image"
+			entrylink="images/p3.jpg"
+			entrythumblink="thumbs/p3.jpg"
+			videopreviewimage=""
+		>
+		<![CDATA[
+		<h1>This is a HTML/CSS style formatted caption text</h1><p>You can combine several styles and also add <a href="http://sc.chinaz.com/?user/damojo">URL-links</a></p>
+		]]>
+		</entry>
+		
+		<entry
+			entrytype="youtube"
+			entrylink="JVuUwvUUPro"
+			entrythumblink="thumbs/youtube.jpg"
+			videopreviewimage="http://i.ytimg.com/vi/JVuUwvUUPro/0.jpg"
+		>
+		<![CDATA[
+		<h1>This is a HTML/CSS style formatted caption text</h1><p>You can combine several styles and also add <a href="http://sc.chinaz.com/?user/damojo">URL-links</a></p>
+		]]>
+		</entry>
+		
+		<entry
+			entrytype="image"
+			entrylink="images/p4.jpg"
+			entrythumblink="thumbs/p4.jpg"
+			videopreviewimage=""
+		>
+		<![CDATA[
+		<h1>This is a HTML/CSS style formatted caption text</h1><p>You can combine several styles and also add <a href="http://sc.chinaz.com/?user/damojo">URL-links</a></p>
+		]]>
+		</entry>
+		
+		<entry
+			entrytype="image"
+			entrylink="images/p5.jpg"
+			entrythumblink="thumbs/p5.jpg"
+			videopreviewimage=""
+		>
+		<![CDATA[
+		<h1>This is a HTML/CSS style formatted caption text</h1><p>You can combine several styles and also add <a href="http://sc.chinaz.com/?user/damojo">URL-links</a></p>
+		]]>
+		</entry>
+		
+		<entry
+			entrytype="video"
+			entrylink="video/iinstallation.flv"
+			entrythumblink="thumbs/iinstallation.jpg"
+			videopreviewimage="previewimage/iinstallation.jpg"
+		>
+		<![CDATA[
+		<h1>This is a HTML/CSS style formatted caption text</h1><p>You can combine several styles and also add <a href="http://sc.chinaz.com/?user/damojo">URL-links</a></p>
+		]]>
+		</entry>
+		
+		<entry
+			entrytype="image"
+			entrylink="images/p6.jpg"
+			entrythumblink="thumbs/p6.jpg"
+			videopreviewimage=""
+		>
+		<![CDATA[
+		<h1>This is a HTML/CSS style formatted caption text</h1><p>You can combine several styles and also add <a href="http://sc.chinaz.com/?user/damojo">URL-links</a></p>
+		]]>
+		</entry>
+		
+		<entry
+			entrytype="image"
+			entrylink="images/p7.jpg"
+			entrythumblink="thumbs/p7.jpg"
+			videopreviewimage=""
+		>
+		<![CDATA[
+		<h1>This is a HTML/CSS style formatted caption text</h1><p>You can combine several styles and also add <a href="http://sc.chinaz.com/?user/damojo">URL-links</a></p>
+		]]>
+		</entry>
+		
+		<entry
+			entrytype="image"
+			entrylink="images/p8.jpg"
+			entrythumblink="thumbs/p8.jpg"
+			videopreviewimage=""
+		>
+		<![CDATA[
+		<h1>This is a HTML/CSS style formatted caption text</h1><p>You can combine several styles and also add <a href="http://sc.chinaz.com/?user/damojo">URL-links</a></p>
+		]]>
+		</entry>
+		
+		<entry
+			entrytype="image"
+			entrylink="images/p9.jpg"
+			entrythumblink="thumbs/p9.jpg"
+			videopreviewimage=""
+		>
+		<![CDATA[
+		<h1>This is a HTML/CSS style formatted caption text</h1><p>You can combine several styles and also add <a href="http://sc.chinaz.com/?user/damojo">URL-links</a></p>
+		]]>
+		</entry>
+		
+		<entry
+			entrytype="image"
+			entrylink="images/p10.jpg"
+			entrythumblink="thumbs/p10.jpg"
+			videopreviewimage=""
+		>
+		<![CDATA[
+		<h1>This is a HTML/CSS style formatted caption text</h1><p>You can combine several styles and also add <a href="http://sc.chinaz.com/?user/damojo">URL-links</a></p>
+		]]>
+		</entry>
+		
+		<entry
+			entrytype="image"
+			entrylink="images/p11.jpg"
+			entrythumblink="thumbs/p11.jpg"
+			videopreviewimage=""
+		>
+		<![CDATA[
+		<h1>This is a HTML/CSS style formatted caption text</h1><p>You can combine several styles and also add <a href="http://sc.chinaz.com/?user/damojo">URL-links</a></p>
+		]]>
+		</entry>
+		
+		<entry
+			entrytype="image"
+			entrylink="images/p12.jpg"
+			entrythumblink="thumbs/p12.jpg"
+			videopreviewimage=""
+		>
+		<![CDATA[
+		<h1>This is a HTML/CSS style formatted caption text</h1><p>You can combine several styles and also add <a href="http://sc.chinaz.com/?user/damojo">URL-links</a></p>
+		]]>
+		</entry>
+		
+	</category>
+	
+	<category
+		title="Another Category Example"			
+	>
+	
+		<entry
+			entrytype="image"
+			entrylink="images/p1.jpg"
+			entrythumblink="thumbs/p1.jpg"
+			videopreviewimage=""
+		>
+		<![CDATA[
+		<h1>This is a HTML/CSS style formatted caption text</h1><p>You can combine several styles and also add <a href="http://sc.chinaz.com/?user/damojo">URL-links</a></p>
+		]]>
+		</entry>
+		
+		<entry
+			entrytype="image"
+			entrylink="images/p2.jpg"
+			entrythumblink="thumbs/p2.jpg"
+			videopreviewimage=""
+		>
+		<![CDATA[
+		<h1>This is a HTML/CSS style formatted caption text</h1><p>You can combine several styles and also add <a href="http://sc.chinaz.com/?user/damojo">URL-links</a></p>
+		]]>
+		</entry>
+		
+		<entry
+			entrytype="image"
+			entrylink="images/p3.jpg"
+			entrythumblink="thumbs/p3.jpg"
+			videopreviewimage=""
+		>
+		<![CDATA[
+		<h1>This is a HTML/CSS style formatted caption text</h1><p>You can combine several styles and also add <a href="http://sc.chinaz.com/?user/damojo">URL-links</a></p>
+		]]>
+		</entry>
+		
+		<entry
+			entrytype="youtube"
+			entrylink="JVuUwvUUPro"
+			entrythumblink="thumbs/youtube.jpg"
+			videopreviewimage="http://i.ytimg.com/vi/JVuUwvUUPro/0.jpg"
+		>
+		<![CDATA[
+		<h1>This is a HTML/CSS style formatted caption text</h1><p>You can combine several styles and also add <a href="http://sc.chinaz.com/?user/damojo">URL-links</a></p>
+		]]>
+		</entry>
+		
+		<entry
+			entrytype="image"
+			entrylink="images/p4.jpg"
+			entrythumblink="thumbs/p4.jpg"
+			videopreviewimage=""
+		>
+		<![CDATA[
+		<h1>This is a HTML/CSS style formatted caption text</h1><p>You can combine several styles and also add <a href="http://sc.chinaz.com/?user/damojo">URL-links</a></p>
+		]]>
+		</entry>
+		
+		<entry
+			entrytype="image"
+			entrylink="images/p5.jpg"
+			entrythumblink="thumbs/p5.jpg"
+			videopreviewimage=""
+		>
+		<![CDATA[
+		<h1>This is a HTML/CSS style formatted caption text</h1><p>You can combine several styles and also add <a href="http://sc.chinaz.com/?user/damojo">URL-links</a></p>
+		]]>
+		</entry>
+		
+		<entry
+			entrytype="video"
+			entrylink="video/iinstallation.flv"
+			entrythumblink="thumbs/iinstallation.jpg"
+			videopreviewimage="previewimage/iinstallation.jpg"
+		>
+		<![CDATA[
+		<h1>This is a HTML/CSS style formatted caption text</h1><p>You can combine several styles and also add <a href="http://sc.chinaz.com/?user/damojo">URL-links</a></p>
+		]]>
+		</entry>
+		
+		<entry
+			entrytype="image"
+			entrylink="images/p6.jpg"
+			entrythumblink="thumbs/p6.jpg"
+			videopreviewimage=""
+		>
+		<![CDATA[
+		<h1>This is a HTML/CSS style formatted caption text</h1><p>You can combine several styles and also add <a href="http://sc.chinaz.com/?user/damojo">URL-links</a></p>
+		]]>
+		</entry>
+		
+		<entry
+			entrytype="image"
+			entrylink="images/p7.jpg"
+			entrythumblink="thumbs/p7.jpg"
+			videopreviewimage=""
+		>
+		<![CDATA[
+		<h1>This is a HTML/CSS style formatted caption text</h1><p>You can combine several styles and also add <a href="http://sc.chinaz.com/?user/damojo">URL-links</a></p>
+		]]>
+		</entry>
+		
+		<entry
+			entrytype="image"
+			entrylink="images/p8.jpg"
+			entrythumblink="thumbs/p8.jpg"
+			videopreviewimage=""
+		>
+		<![CDATA[
+		<h1>This is a HTML/CSS style formatted caption text</h1><p>You can combine several styles and also add <a href="http://sc.chinaz.com/?user/damojo">URL-links</a></p>
+		]]>
+		</entry>
+		
+		<entry
+			entrytype="image"
+			entrylink="images/p9.jpg"
+			entrythumblink="thumbs/p9.jpg"
+			videopreviewimage=""
+		>
+		<![CDATA[
+		<h1>This is a HTML/CSS style formatted caption text</h1><p>You can combine several styles and also add <a href="http://sc.chinaz.com/?user/damojo">URL-links</a></p>
+		]]>
+		</entry>
+		
+		<entry
+			entrytype="image"
+			entrylink="images/p10.jpg"
+			entrythumblink="thumbs/p10.jpg"
+			videopreviewimage=""
+		>
+		<![CDATA[
+		<h1>This is a HTML/CSS style formatted caption text</h1><p>You can combine several styles and also add <a href="http://sc.chinaz.com/?user/damojo">URL-links</a></p>
+		]]>
+		</entry>
+		
+		<entry
+			entrytype="image"
+			entrylink="images/p11.jpg"
+			entrythumblink="thumbs/p11.jpg"
+			videopreviewimage=""
+		>
+		<![CDATA[
+		<h1>This is a HTML/CSS style formatted caption text</h1><p>You can combine several styles and also add <a href="http://sc.chinaz.com/?user/damojo">URL-links</a></p>
+		]]>
+		</entry>
+		
+		<entry
+			entrytype="image"
+			entrylink="images/p12.jpg"
+			entrythumblink="thumbs/p12.jpg"
+			videopreviewimage=""
+		>
+		<![CDATA[
+		<h1>This is a HTML/CSS style formatted caption text</h1><p>You can combine several styles and also add <a href="http://sc.chinaz.com/?user/damojo">URL-links</a></p>
+		]]>
+		</entry>
+		
+		<entry
+			entrytype="image"
+			entrylink="images/p1.jpg"
+			entrythumblink="thumbs/p1.jpg"
+			videopreviewimage=""
+		>
+		<![CDATA[
+		<h1>This is a HTML/CSS style formatted caption text</h1><p>You can combine several styles and also add <a href="http://sc.chinaz.com/?user/damojo">URL-links</a></p>
+		]]>
+		</entry>
+		
+		<entry
+			entrytype="image"
+			entrylink="images/p2.jpg"
+			entrythumblink="thumbs/p2.jpg"
+			videopreviewimage=""
+		>
+		<![CDATA[
+		<h1>This is a HTML/CSS style formatted caption text</h1><p>You can combine several styles and also add <a href="http://sc.chinaz.com/?user/damojo">URL-links</a></p>
+		]]>
+		</entry>
+		
+		<entry
+			entrytype="image"
+			entrylink="images/p3.jpg"
+			entrythumblink="thumbs/p3.jpg"
+			videopreviewimage=""
+		>
+		<![CDATA[
+		<h1>This is a HTML/CSS style formatted caption text</h1><p>You can combine several styles and also add <a href="http://sc.chinaz.com/?user/damojo">URL-links</a></p>
+		]]>
+		</entry>
+		
+		<entry
+			entrytype="youtube"
+			entrylink="JVuUwvUUPro"
+			entrythumblink="thumbs/youtube.jpg"
+			videopreviewimage="http://i.ytimg.com/vi/JVuUwvUUPro/0.jpg"
+		>
+		<![CDATA[
+		<h1>This is a HTML/CSS style formatted caption text</h1><p>You can combine several styles and also add <a href="http://sc.chinaz.com/?user/damojo">URL-links</a></p>
+		]]>
+		</entry>
+		
+		<entry
+			entrytype="image"
+			entrylink="images/p4.jpg"
+			entrythumblink="thumbs/p4.jpg"
+			videopreviewimage=""
+		>
+		<![CDATA[
+		<h1>This is a HTML/CSS style formatted caption text</h1><p>You can combine several styles and also add <a href="http://sc.chinaz.com/?user/damojo">URL-links</a></p>
+		]]>
+		</entry>
+		
+		<entry
+			entrytype="image"
+			entrylink="images/p5.jpg"
+			entrythumblink="thumbs/p5.jpg"
+			videopreviewimage=""
+		>
+		<![CDATA[
+		<h1>This is a HTML/CSS style formatted caption text</h1><p>You can combine several styles and also add <a href="http://sc.chinaz.com/?user/damojo">URL-links</a></p>
+		]]>
+		</entry>
+		
+		<entry
+			entrytype="video"
+			entrylink="video/iinstallation.flv"
+			entrythumblink="thumbs/iinstallation.jpg"
+			videopreviewimage="previewimage/iinstallation.jpg"
+		>
+		<![CDATA[
+		<h1>This is a HTML/CSS style formatted caption text</h1><p>You can combine several styles and also add <a href="http://sc.chinaz.com/?user/damojo">URL-links</a></p>
+		]]>
+		</entry>
+		
+		<entry
+			entrytype="image"
+			entrylink="images/p6.jpg"
+			entrythumblink="thumbs/p6.jpg"
+			videopreviewimage=""
+		>
+		<![CDATA[
+		<h1>This is a HTML/CSS style formatted caption text</h1><p>You can combine several styles and also add <a href="http://sc.chinaz.com/?user/damojo">URL-links</a></p>
+		]]>
+		</entry>
+		
+		<entry
+			entrytype="image"
+			entrylink="images/p7.jpg"
+			entrythumblink="thumbs/p7.jpg"
+			videopreviewimage=""
+		>
+		<![CDATA[
+		<h1>This is a HTML/CSS style formatted caption text</h1><p>You can combine several styles and also add <a href="http://sc.chinaz.com/?user/damojo">URL-links</a></p>
+		]]>
+		</entry>
+		
+		<entry
+			entrytype="image"
+			entrylink="images/p8.jpg"
+			entrythumblink="thumbs/p8.jpg"
+			videopreviewimage=""
+		>
+		<![CDATA[
+		<h1>This is a HTML/CSS style formatted caption text</h1><p>You can combine several styles and also add <a href="http://sc.chinaz.com/?user/damojo">URL-links</a></p>
+		]]>
+		</entry>
+		
+		<entry
+			entrytype="image"
+			entrylink="images/p9.jpg"
+			entrythumblink="thumbs/p9.jpg"
+			videopreviewimage=""
+		>
+		<![CDATA[
+		<h1>This is a HTML/CSS style formatted caption text</h1><p>You can combine several styles and also add <a href="http://sc.chinaz.com/?user/damojo">URL-links</a></p>
+		]]>
+		</entry>
+		
+		<entry
+			entrytype="image"
+			entrylink="images/p10.jpg"
+			entrythumblink="thumbs/p10.jpg"
+			videopreviewimage=""
+		>
+		<![CDATA[
+		<h1>This is a HTML/CSS style formatted caption text</h1><p>You can combine several styles and also add <a href="http://sc.chinaz.com/?user/damojo">URL-links</a></p>
+		]]>
+		</entry>
+		
+		<entry
+			entrytype="image"
+			entrylink="images/p11.jpg"
+			entrythumblink="thumbs/p11.jpg"
+			videopreviewimage=""
+		>
+		<![CDATA[
+		<h1>This is a HTML/CSS style formatted caption text</h1><p>You can combine several styles and also add <a href="http://sc.chinaz.com/?user/damojo">URL-links</a></p>
+		]]>
+		</entry>
+		
+		<entry
+			entrytype="image"
+			entrylink="images/p12.jpg"
+			entrythumblink="thumbs/p12.jpg"
+			videopreviewimage=""
+		>
+		<![CDATA[
+		<h1>This is a HTML/CSS style formatted caption text</h1><p>You can combine several styles and also add <a href="http://sc.chinaz.com/?user/damojo">URL-links</a></p>
+		]]>
+		</entry>
+		
+	</category>
+	
+	<category
+		title="Images Only Category Example"			
+	>
+	
+		<entry
+			entrytype="image"
+			entrylink="images/p1.jpg"
+			entrythumblink="thumbs/p1.jpg"
+			videopreviewimage=""
+		>
+		<![CDATA[
+		<h1>This is a HTML/CSS style formatted caption text</h1><p>You can combine several styles and also add <a href="http://sc.chinaz.com/?user/damojo">URL-links</a></p>
+		]]>
+		</entry>
+		
+		<entry
+			entrytype="image"
+			entrylink="images/p2.jpg"
+			entrythumblink="thumbs/p2.jpg"
+			videopreviewimage=""
+		>
+		<![CDATA[
+		<h1>This is a HTML/CSS style formatted caption text</h1><p>You can combine several styles and also add <a href="http://sc.chinaz.com/?user/damojo">URL-links</a></p>
+		]]>
+		</entry>
+		
+		<entry
+			entrytype="image"
+			entrylink="images/p3.jpg"
+			entrythumblink="thumbs/p3.jpg"
+			videopreviewimage=""
+		>
+		<![CDATA[
+		<h1>This is a HTML/CSS style formatted caption text</h1><p>You can combine several styles and also add <a href="http://sc.chinaz.com/?user/damojo">URL-links</a></p>
+		]]>
+		</entry>
+		
+		<entry
+			entrytype="image"
+			entrylink="images/p4.jpg"
+			entrythumblink="thumbs/p4.jpg"
+			videopreviewimage=""
+		>
+		<![CDATA[
+		<h1>This is a HTML/CSS style formatted caption text</h1><p>You can combine several styles and also add <a href="http://sc.chinaz.com/?user/damojo">URL-links</a></p>
+		]]>
+		</entry>
+		
+		<entry
+			entrytype="image"
+			entrylink="images/p5.jpg"
+			entrythumblink="thumbs/p5.jpg"
+			videopreviewimage=""
+		>
+		<![CDATA[
+		<h1>This is a HTML/CSS style formatted caption text</h1><p>You can combine several styles and also add <a href="http://sc.chinaz.com/?user/damojo">URL-links</a></p>
+		]]>
+		</entry>
+		
+		<entry
+			entrytype="image"
+			entrylink="images/p6.jpg"
+			entrythumblink="thumbs/p6.jpg"
+			videopreviewimage=""
+		>
+		<![CDATA[
+		<h1>This is a HTML/CSS style formatted caption text</h1><p>You can combine several styles and also add <a href="http://sc.chinaz.com/?user/damojo">URL-links</a></p>
+		]]>
+		</entry>
+		
+		<entry
+			entrytype="image"
+			entrylink="images/p7.jpg"
+			entrythumblink="thumbs/p7.jpg"
+			videopreviewimage=""
+		>
+		<![CDATA[
+		<h1>This is a HTML/CSS style formatted caption text</h1><p>You can combine several styles and also add <a href="http://sc.chinaz.com/?user/damojo">URL-links</a></p>
+		]]>
+		</entry>
+		
+		<entry
+			entrytype="image"
+			entrylink="images/p8.jpg"
+			entrythumblink="thumbs/p8.jpg"
+			videopreviewimage=""
+		>
+		<![CDATA[
+		<h1>This is a HTML/CSS style formatted caption text</h1><p>You can combine several styles and also add <a href="http://sc.chinaz.com/?user/damojo">URL-links</a></p>
+		]]>
+		</entry>
+		
+		<entry
+			entrytype="image"
+			entrylink="images/p9.jpg"
+			entrythumblink="thumbs/p9.jpg"
+			videopreviewimage=""
+		>
+		<![CDATA[
+		<h1>This is a HTML/CSS style formatted caption text</h1><p>You can combine several styles and also add <a href="http://sc.chinaz.com/?user/damojo">URL-links</a></p>
+		]]>
+		</entry>
+		
+		<entry
+			entrytype="image"
+			entrylink="images/p10.jpg"
+			entrythumblink="thumbs/p10.jpg"
+			videopreviewimage=""
+		>
+		<![CDATA[
+		<h1>This is a HTML/CSS style formatted caption text</h1><p>You can combine several styles and also add <a href="http://sc.chinaz.com/?user/damojo">URL-links</a></p>
+		]]>
+		</entry>
+		
+		<entry
+			entrytype="image"
+			entrylink="images/p11.jpg"
+			entrythumblink="thumbs/p11.jpg"
+			videopreviewimage=""
+		>
+		<![CDATA[
+		<h1>This is a HTML/CSS style formatted caption text</h1><p>You can combine several styles and also add <a href="http://sc.chinaz.com/?user/damojo">URL-links</a></p>
+		]]>
+		</entry>
+		
+		<entry
+			entrytype="image"
+			entrylink="images/p12.jpg"
+			entrythumblink="thumbs/p12.jpg"
+			videopreviewimage=""
+		>
+		<![CDATA[
+		<h1>This is a HTML/CSS style formatted caption text</h1><p>You can combine several styles and also add <a href="http://sc.chinaz.com/?user/damojo">URL-links</a></p>
+		]]>
+		</entry>
+		
+	</category>
+	
+	<category
+		title="Flash Video and Youtube"			
+	>
+	
+		<entry
+			entrytype="youtube"
+			entrylink="JVuUwvUUPro"
+			entrythumblink="thumbs/youtube.jpg"
+			videopreviewimage="http://i.ytimg.com/vi/JVuUwvUUPro/0.jpg"
+		>
+		<![CDATA[
+		<h1>This is a HTML/CSS style formatted caption text</h1><p>You can combine several styles and also add <a href="http://sc.chinaz.com/?user/damojo">URL-links</a></p>
+		]]>
+		</entry>
+		
+		<entry
+			entrytype="video"
+			entrylink="video/iinstallation.flv"
+			entrythumblink="thumbs/iinstallation.jpg"
+			videopreviewimage="previewimage/iinstallation.jpg"
+		>
+		<![CDATA[
+		<h1>This is a HTML/CSS style formatted caption text</h1><p>You can combine several styles and also add <a href="http://sc.chinaz.com/?user/damojo">URL-links</a></p>
+		]]>
+		</entry>
+		
+		<entry
+			entrytype="youtube"
+			entrylink="JVuUwvUUPro"
+			entrythumblink="thumbs/youtube.jpg"
+			videopreviewimage="http://i.ytimg.com/vi/JVuUwvUUPro/0.jpg"
+		>
+		<![CDATA[
+		<h1>This is a HTML/CSS style formatted caption text</h1><p>You can combine several styles and also add <a href="http://sc.chinaz.com/?user/damojo">URL-links</a></p>
+		]]>
+		</entry>
+		
+		<entry
+			entrytype="video"
+			entrylink="video/iinstallation.flv"
+			entrythumblink="thumbs/iinstallation.jpg"
+			videopreviewimage="previewimage/iinstallation.jpg"
+		>
+		<![CDATA[
+		<h1>This is a HTML/CSS style formatted caption text</h1><p>You can combine several styles and also add <a href="http://sc.chinaz.com/?user/damojo">URL-links</a></p>
+		]]>
+		</entry>
+		
+		<entry
+			entrytype="youtube"
+			entrylink="JVuUwvUUPro"
+			entrythumblink="thumbs/youtube.jpg"
+			videopreviewimage="http://i.ytimg.com/vi/JVuUwvUUPro/0.jpg"
+		>
+		<![CDATA[
+		<h1>This is a HTML/CSS style formatted caption text</h1><p>You can combine several styles and also add <a href="http://sc.chinaz.com/?user/damojo">URL-links</a></p>
+		]]>
+		</entry>
+		
+		<entry
+			entrytype="video"
+			entrylink="video/iinstallation.flv"
+			entrythumblink="thumbs/iinstallation.jpg"
+			videopreviewimage="previewimage/iinstallation.jpg"
+		>
+		<![CDATA[
+		<h1>This is a HTML/CSS style formatted caption text</h1><p>You can combine several styles and also add <a href="http://sc.chinaz.com/?user/damojo">URL-links</a></p>
+		]]>
+		</entry>
+		
+	</category>
+	
+</mediagallery>

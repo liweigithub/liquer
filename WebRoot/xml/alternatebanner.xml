@@ -1,0 +1,332 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+
+<theshow
+	bannerwidth="800"
+	bannerheight="500"
+	
+	autoplay="true"
+	timerpauseonhover="false"
+	
+	navigshowonhover="true"
+	navigplaypause="true"
+	navigleftright="true"
+	navigbuttonspacing="10"
+	navigbuttonpaddingbottom="10"
+	navigbuttonopacity="1"
+	navigbuttonidlecolor="0x444444"
+	navigbuttonhovercolor="0xffffff"
+	navigbuttonshadowcolor="0x000000"
+	navigbuttonshadowopacity="0.5"
+	navigbuttonshadowdistance="2"
+	navigbuttonshadowangle="120"
+	navigbuttonshadowsize="5"
+	navigbuttonshadowstrength="1"
+	navigtimercolor="0xaaaaaa"
+	
+	preloadercolor="0xffffff"
+	preloaderheight="5"
+	preloaderopacity="0.6"
+	
+	solidbackgroundcolor="0x000000"
+	solidbackgroundopacity="1"
+	
+	entrymoveinfrom="bottom"
+	entrytransitiontime="1.2"
+	entryeasetype="Sine"	
+	entryfadefromalpha="0.2"
+	
+	textmoveinfrom="bottom"
+	texttransitiontime="0.8"
+	texttransitiondelay="0.4"
+	texteasetype="Quart"	
+	
+	videobigplaysize="70"
+	videobigplayrounded="10"
+	videobigplayarrowcolor="0xffffff"
+	videobigplaybgcolor="0x000000"
+	videobigplaybgalpha="0.8"
+	videobuttonbgcolor="0x111111"
+	videobuttonbgalpha="0.9"
+	videobuttonalphahover="false"
+	videobuttonobjcolor="0xffffff"
+	videobuttonsize="30"
+	videobuttonrounded="10"
+	videobuttonspacing="5"
+	videobuttonborderspacing="5"
+	videobuttonbottomspacing="5"
+	videobarheight="1"
+	videobarareaheight="20"
+	videobarbgcolor="0x111111"
+	videobarbuffercolor="0x333333"
+	videobarcolor="0xffffff"
+	videovolumewidth="100"
+	videovolumebarbgcolor="0x444444"
+	videovolumemutealpha="0.3"
+	videoseekfontantialiasing="false"
+	videoseekfontcolor="0xffffff"
+	videoseekfontsize="8"
+	videotooltipbgcolor="0x000000"
+	videotooltipbgrounded="5"
+	videotooltipbgalpha="1"
+	videotooltipfontcolor="0xffffff"
+	videotooltipfontsize="8"
+	videointerfacebgcolor="0xffffff"
+	videointerfacebgalpha="0"
+>
+
+	<!-- entrytpye = image, youtube or video -->
+	<slide
+		entrytype="image"
+		entryvideopreviewimage=""
+		entryurl="images/banner1.jpg"
+		entrywidth="800"
+		entryheight="500"
+		entryhorizontalorientation="center"
+		entryverticalorientation="center"
+		entryshowtime="8"
+		entryclicklink=""
+		entryclicklinktarget="_blank"
+		
+		videoautoplay="true"
+		videostartvolume="80"
+		videocontrolsvisible="true"
+		videocontrolshidetime="0"
+		videointerfaceoverlay = "true"
+		
+		textbackgroundxpos="60"
+		textbackgroundypos="30"
+		textpaddingtop="30"
+		textpaddingleft="15"
+		textpaddingright="23"
+		textbackgroundwidth="220"
+		textbackgroundheight="290"
+		textbackgroundrotation="3"
+		textbackgroundcolor="0xdddddd"
+		textbackgroundopacity="1"
+		textbackgroundshadowcolor="0x000000"
+		textbackgroundshadowopacity="0.7"
+		textbackgroundshadowdistance="5"
+		textbackgroundshadowangle="120"
+		textbackgroundshadowsize="10"
+		textbackgroundshadowstrength="1"
+	>
+		<![CDATA[
+			<headline_pink>特别优惠!</headline_pink>
+			<content_banner><br/>s商品全新出来,先到先得<br/>它能满足 <b>用户</b>, <b>的需求</b>每个商品对应价格<br/></content_banner>
+			<script_blue>非常棒!</script_blue>
+		]]>
+	</slide>
+	
+	<!-- entrytpye = image, youtube or video -->
+	<slide
+		entrytype="image"
+		entryvideopreviewimage=""
+		entryurl="images/banner2.jpg"
+		entrywidth="800"
+		entryheight="500"
+		entryhorizontalorientation="center"
+		entryverticalorientation="center"
+		entryshowtime="8"
+		entryclicklink=""
+		entryclicklinktarget="_blank"
+		
+		videoautoplay="true"
+		videostartvolume="80"
+		videocontrolsvisible="true"
+		videocontrolshidetime="0"
+		videointerfaceoverlay = "true"
+		
+		textbackgroundxpos="0"
+		textbackgroundypos="30"
+		textpaddingtop="30"
+		textpaddingleft="30"
+		textpaddingright="17"
+		textbackgroundwidth="800"
+		textbackgroundheight="100"
+		textbackgroundrotation="0"
+		textbackgroundcolor="0xffffff"
+		textbackgroundopacity="0"
+		textbackgroundshadowcolor="0x000000"
+		textbackgroundshadowopacity="0"
+		textbackgroundshadowdistance="5"
+		textbackgroundshadowangle="120"
+		textbackgroundshadowsize="10"
+		textbackgroundshadowstrength="1"
+	>
+		<![CDATA[
+			<script_white_big>汉源。酒香天下</script_white_big>
+		]]>
+	</slide>
+	
+	<!-- REMOVE COMMENTS BELOW FOR VIDEO (VIDEO FILE NOT INCLUDED) -->
+	<!-- entrytpye = image, youtube or video -->
+	<!--slide
+		entrytype="video"
+		entryvideopreviewimage="previewimage/handdrawndisplay.jpg"
+		entryurl="video/handdrawndisplay.flv"
+		entrywidth="640"
+		entryheight="360"
+		entryhorizontalorientation="center"
+		entryverticalorientation="center"
+		entryshowtime="0"
+		entryclicklink=""
+		entryclicklinktarget="_blank"
+		
+		videoautoplay="true"
+		videostartvolume="80"
+		videocontrolsvisible="true"
+		videocontrolshidetime="0"
+		videointerfaceoverlay = "true"
+		
+		textbackgroundxpos="610"
+		textbackgroundypos="40"
+		textpaddingtop="20"
+		textpaddingleft="35"
+		textpaddingright="10"
+		textbackgroundwidth="200"
+		textbackgroundheight="340"
+		textbackgroundrotation="-5"
+		textbackgroundcolor="0x1E1A17"
+		textbackgroundopacity="1"
+		textbackgroundshadowcolor="0x000000"
+		textbackgroundshadowopacity="0.7"
+		textbackgroundshadowdistance="5"
+		textbackgroundshadowangle="120"
+		textbackgroundshadowsize="10"
+		textbackgroundshadowstrength="1"
+	>
+		<![CDATA[
+			<headline_orange>Flash Video</headline_orange>
+			<content_light><br/>This is an example for <font color="#ffffff"><b>Flash Video Content</b></font>.<br/>The controls can be customized and also removed if desired!<br/></content_light>
+			<script_crema>Up next is a youtube video!</script_crema>
+		]]>
+	</slide-->
+	
+	<!-- REMOVE COMMENTS BELOW FOR YOUTUBE (ONLY WORKS ONLINE) -->
+	<!-- entrytpye = image, youtube or video -->
+	<!--slide
+		entrytype="youtube"
+		entryvideopreviewimage="previewimage/youtube.jpg"
+		entryurl="PSGx4bBU9Qc"
+		entrywidth="640"
+		entryheight="400"
+		entryhorizontalorientation="center"
+		entryverticalorientation="center"
+		entryshowtime="0"
+		entryclicklink=""
+		entryclicklinktarget="_blank"
+		
+		videoautoplay="true"
+		videostartvolume="80"
+		videocontrolsvisible="true"
+		videocontrolshidetime="0"
+		videointerfaceoverlay = "false"
+		
+		textbackgroundxpos="600"
+		textbackgroundypos="20"
+		textpaddingtop="15"
+		textpaddingleft="10"
+		textpaddingright="15"
+		textbackgroundwidth="170"
+		textbackgroundheight="70"
+		textbackgroundrotation="2"
+		textbackgroundcolor="0xf4fde1"
+		textbackgroundopacity="1"
+		textbackgroundshadowcolor="0x000000"
+		textbackgroundshadowopacity="0.7"
+		textbackgroundshadowdistance="5"
+		textbackgroundshadowangle="120"
+		textbackgroundshadowsize="10"
+		textbackgroundshadowstrength="1"
+	>
+		<![CDATA[
+			<content_chunk><font color="#000000">Video Interface</font><br/>set to not overlay video area.</content_chunk>
+		]]>
+	</slide-->
+	
+	<!-- entrytpye = image, youtube or video -->
+	<slide
+		entrytype="image"
+		entryvideopreviewimage=""
+		entryurl="images/banner3.jpg"
+		entrywidth="800"
+		entryheight="400"
+		entryhorizontalorientation="center"
+		entryverticalorientation="bottom"
+		entryshowtime="9"
+		entryclicklink=""
+		entryclicklinktarget="_blank"
+		
+		videoautoplay="true"
+		videostartvolume="80"
+		videocontrolsvisible="true"
+		videocontrolshidetime="0"
+		videointerfaceoverlay = "true"
+		
+		textbackgroundxpos="0"
+		textbackgroundypos="0"
+		textpaddingtop="30"
+		textpaddingleft="30"
+		textpaddingright="30"
+		textbackgroundwidth="800"
+		textbackgroundheight="110"
+		textbackgroundrotation="0"
+		textbackgroundcolor="0x000000"
+		textbackgroundopacity="1"
+		textbackgroundshadowcolor="0x000000"
+		textbackgroundshadowopacity="0.7"
+		textbackgroundshadowdistance="5"
+		textbackgroundshadowangle="120"
+		textbackgroundshadowsize="10"
+		textbackgroundshadowstrength="1"
+	>
+		<![CDATA[
+			<headline_blue>说的是撒旦户籍科撒旦</headline_blue>
+			<content_light><br/>... . .你想要的方式！可以有<b>类型和原物</b>.<br/>The <b>Transition</b> 都是来自新疆维吾尔自治区</content_light>
+		
+		]]>
+	</slide>
+	
+	<!-- entrytpye = image, youtube or video -->
+	<slide
+		entrytype="image"
+		entryvideopreviewimage=""
+		entryurl="images/banner4.jpg"
+		entrywidth="800"
+		entryheight="400"
+		entryhorizontalorientation="right"
+		entryverticalorientation="center"
+		entryshowtime="9"
+		entryclicklink=""
+		entryclicklinktarget="_blank"
+		
+		videoautoplay="true"
+		videostartvolume="80"
+		videocontrolsvisible="true"
+		videocontrolshidetime="0"
+		videointerfaceoverlay = "true"
+		
+		textbackgroundxpos="10"
+		textbackgroundypos="40"
+		textpaddingtop="30"
+		textpaddingleft="30"
+		textpaddingright="15"
+		textbackgroundwidth="270"
+		textbackgroundheight="430"
+		textbackgroundrotation="-2"
+		textbackgroundcolor="0xdddddd"
+		textbackgroundopacity="1"
+		textbackgroundshadowcolor="0x000000"
+		textbackgroundshadowopacity="0.7"
+		textbackgroundshadowdistance="5"
+		textbackgroundshadowangle="120"
+		textbackgroundshadowsize="10"
+		textbackgroundshadowstrength="1"
+	>
+		<![CDATA[
+			<headline_pink>每个周都会推出新产品,快到现场体验哦！</headline_pink>
+			<content_banner><br/>你将会品尝到前所未有过的味道!<br/><br/>在现场,您可以免费品尝我们新推出的产品，同时你还可以给予评价,我们会在消费人群中,听取大家的意见<br/></content_banner>
+			<script_black_big>如果喜欢我们的酒，请随时与我们保持联系,我们将在推出新产品之前联系您</script_black_big>
+		]]>
+	</slide>
+</theshow>

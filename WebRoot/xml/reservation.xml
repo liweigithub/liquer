@@ -1,0 +1,143 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+
+<contactform 
+	formwidth="920"
+	formheight="485"
+	mailphpurl="order.html"
+	imageurl="images/reservation.jpg"
+	imagelink="index.html"
+	imagetarget="_blank"
+	imagewidth="320"
+	imageheight="475"
+	imagepadding="5"
+	imagesolidbackgroundcolor="0x1e1a17"
+	imagesolidbackgroundopacity="0.95"
+	imagesolidbackgroundrounded="0"
+	
+	imageshadowopacity="0.3"
+	imageshadowblur="7"
+	imageshadowcolor="0x000000"
+	imageshadowdistance="2"
+	imageshadowangle="90"
+	
+	fieldbgcolor="0x1e1a17"
+	fieldbgopacity="0.8"
+	fieldbgrounded="0"
+	fieldfontcolor="0xcccccc"
+	fieldfontsize="12"
+	
+	errorbgcolor="0xffffff"
+	errorbgopacity="0.95"
+	errorfontcolor="0x333333"
+	errorfontsize="12"
+	
+	infobgcolor="0x1e1a17"
+	infobgopacity="0.95"
+	
+	btnbgcolor="0x111111"
+	btnfontcolor="0xaaaaaa"
+	btnfontsize="12"
+	
+	fonttype="Arial"
+>
+
+	<infotext>
+	<![CDATA[<scripttext2>温馨提示!</scripttext2><content>
+	<b>客户,您好，为了为您带来更方便、更快捷、更实惠的服务，我们已经实现在线订购功能,以为您带来更好的服务。您在现订购可享受<scripttext2>8.5折的优惠！</scripttext2><br/>如果您需要在线订购,在您订购成功后我们将会按您填写的电话号码进行回访。</b><br/><br/>
+	请填写下面的字段,按“预订”按钮  带<i>　＊　</i>表示必填项</content>]]>
+	</infotext>
+	
+	<formfields
+		requiredtext="带有　＊　的字段是必填项的"
+		finishedtext="谢谢你,预订请求已发送!我们将在24小时之内与您联系!"
+		notfinishedtext="预订错误错误!"
+		submitbuttontext="预订"
+	>
+		
+		<field
+			fieldtitle="　＊　年/月/日:"
+			fieldrequired="true"
+			fieldvar="datevar"
+			fielderror="请输入所需的日期!"
+		/>
+		
+		<field
+			fieldtitle="　＊　时间(例如:下午2点/上午2点)"
+			fieldrequired="true"
+			fieldvar="timevar"
+			fielderror="请输入您预订的时间!"
+		/>
+		
+		<field
+			fieldtitle="　＊　需要数量:"
+			fieldrequired="true"
+			fieldvar="guestsvar"
+			fielderror="请输入斤两!"
+		/>
+		
+		<field
+			fieldtitle="使用场景"
+			fieldrequired="false"
+			fieldvar="occasionvar"
+			fielderror="请输入场景！"
+		/>
+		
+		<field
+			fieldtitle="　＊　名字"
+			fieldrequired="true"
+			fieldvar="firstnamevar"
+			fielderror="请输入你的名字!"
+		/>
+		
+		<field
+			fieldtitle="　＊　确认名称 *"
+			fieldrequired="true"
+			fieldvar="lastnamevar"
+			fielderror="名称请确认!"
+		/>
+		
+		<field
+			fieldtitle="　＊　地址"
+			fieldrequired="false"
+			fieldvar="streetvar"
+			fielderror="请输入地址"
+		/>
+		
+		<field
+			fieldtitle="市区"
+			fieldrequired="false"
+			fieldvar="cityvar"
+			fielderror="请输入市区"
+		/>
+		
+		<field
+			fieldtitle="　＊　邮政编码"
+			fieldrequired="false"
+			fieldvar="postalvar"
+			fielderror="请输入邮政编码！"
+		/>
+		
+		<field
+			fieldtitle="　＊　手机:"
+			fieldrequired="true"
+			fieldvar="phonevar"
+			fielderror="请输入手机号码！"
+		/>
+		
+		<field
+			fieldtitle="　＊　邮箱地址: "
+			fieldrequired="true"
+			fieldvar="emailvar"
+			fielderror="请输入邮箱地址:"
+		/>
+		
+		<field
+			fieldtitle="电话"
+			fieldrequired="false"
+			fieldvar="mobilevar"
+			fielderror=""
+		/>
+	
+	</formfields>
+	
+</contactform>

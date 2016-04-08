@@ -1,0 +1,132 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+
+<welcomepage>
+
+	<creativebanner
+		banneractive="true"
+		bannerwidth="980"
+		bannerheight="240"
+		
+		imagewidth="980"
+		imageheight="240"
+		
+		autoplay="true"
+		timerpauseonhover="false"
+		playpauseactivated="true"
+		
+		solidbackgroundcolor="0x1e1a17"
+		solidbackgroundopacity="1"
+		
+		selectbuttonspacing="0"
+		selectbuttonpaddingleft="0"
+		selectbuttonpaddingbottom="10"
+		selectbuttonorientation="center"
+		selectbuttonstyle="dark"
+		
+		imageshadowopacity="0.2"
+		imageshadowblur="7"
+		imageshadowcolor="0x000000"
+		imageshadowdistance="2"
+		imageshadowangle="90"
+		
+		timerbarpos="bottom"
+		timerbarheight="4"
+		timerbarcolor="0x111111"
+		timerbaropacity="0.4"
+	>
+	
+		<banner
+			imageurl="images/shortbanner2.jpg"
+			imageshowtime="5"
+			imageclicklink="/"
+			imageclicklinktarget="_blank"
+			animtilenumber="10"
+			animtiletime="0.5"
+			animtilefadetime="2"
+			animtilefxtime="1"
+			animtilefxstrength="10"
+			animtiledelay="0.1"
+			animtilepos="top"	
+			animeasingtype="Cubic"				
+		>
+		</banner>
+
+		<banner
+			imageurl="images/shortbanner1.jpg"
+			imageshowtime="8"
+			imageclicklink="http://www.liweizone.com"
+			imageclicklinktarget="_blank"
+			animtilenumber="16"
+			animtiletime="0.8"
+			animtilefadetime="2"
+			animtilefxtime="1"
+			animtilefxstrength="2"
+			animtiledelay="0.07"
+			animtilepos="bottom"	
+			animeasingtype="Back"			
+		>
+		</banner>
+		
+		<banner
+			imageurl="images/shortbanner3.jpg"
+			imageshowtime="5"
+			imageclicklink="http://www.liweizone.com"
+			imageclicklinktarget="_blank"
+			animtilenumber="1"
+			animtiletime="0.5"
+			animtilefadetime="1"
+			animtilefxtime="1"
+			animtilefxstrength="2"
+			animtiledelay="0.1"
+			animtilepos="bottom"	
+			animeasingtype="Expo"				
+		>
+
+
+			<textbox
+				textfontsize="20"
+				textfontcolor="0xffffff"
+				textfontopacity="1"
+				textbgcolor="0x473d36"
+				textbgopacity="1"
+				textbgpadding="5"
+				textanimdirection="right"
+				textanimoffset="50"
+				textanimtime="1.4"
+				textanimdelay="0.8"
+				textanimfxstrength="20"
+				textposx="440"
+				textposy="20"
+			>
+			选择最好的酒！
+			</textbox>
+		</banner>
+
+	</creativebanner>
+	
+	<contenttext
+		contentheight="0"
+		contenttopdistance="0"
+		contentbgtexthpadding="20"
+		contentbgtextvpadding="20"
+		contentbgcolor="0x1e1a17"
+		contentbgopacity="0.95"
+		contentbgrounded="10"
+		contentscrollbarcolor="0x686868"
+		contentscrollbarwidth="10"
+		contentscrollbarheight="80"
+		contentscrollbarrounded="0"
+		contentscrollbaropacity="0.2"
+		contentscrollamount="80"
+		contentscrollease="4"
+		textfieldheight="970"
+	>
+	<![CDATA[
+		<contentheadline1>You will love every bit of our <font color="#ff9c00">traditional Cuisine</font></contentheadline1>
+		<content> 
+			<img align="left" src="images/aboutzx.gif" hspace="15" vspace="0"/>
+		</content>
+	]]>
+	</contenttext>
+
+</welcomepage>

@@ -1,0 +1,59 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+
+<videoplayer
+	youtubemode="false"
+	videolink="video/lomostripes.flv"
+	videopreviewimage="previewimage/lomostripes_large.jpg"
+	
+	videointerfaceoverlay="true"
+	videomoveup="false"
+	videoautoplay="true"
+	videoloop="false"
+	videobuffertime="3"
+	videointerfaceupdate="8"
+	videostartvolume="80"
+	videoplayerwidth="844"
+	videoplayerheight="475"
+	
+	videocontrolsvisible="true"
+	videocontrolshidetime="5"
+	videocontrolsanimationdelays="0"
+	
+	videobigplaysize="70"
+	videobigplayrounded="10"
+	videobigplayarrowcolor="0xffffff"
+	videobigplaybgcolor="0x000000"
+	videobigplaybgalpha="0.8"
+	
+	videobuttonbgcolor="0x1e1a17"
+	videobuttonbgalpha="0.8"
+	videobuttonalphahover="true"
+	videobuttonobjcolor="0xffffff"
+	videobuttonsize="35"
+	videobuttonrounded="10"
+	videobuttonspacing="5"
+	videobuttonborderspacing="10"
+	videobuttonbottomspacing="10"
+	
+	videobarheight="1"
+	videobarareaheight="20"
+	videobarbgcolor="0x111111"
+	videobarbuffercolor="0x333333"
+	videobarcolor="0xff9c00"
+	
+	videovolumewidth="120"
+	videovolumebarbgcolor="0x444444"
+	videovolumemutealpha="0.3"
+	
+	videoseekfontantialiasing="false"
+	videoseekfontcolor="0xffffff"
+	videoseekfontsize="8"
+	videotooltipbgcolor="0xffffff"
+	videotooltipbgrounded="5"
+	videotooltipbgalpha="1"
+	videotooltipfontcolor="0x000000"
+	videotooltipfontsize="8"
+	
+	videointerfacebgcolor="0xffffff"
+	videointerfacebgalpha="0"
+/>

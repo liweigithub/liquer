@@ -1,0 +1,226 @@
+h1 { 
+	color: #aaaaaa; 
+	font-size: 17; 
+	font-family: Arial; 
+	font-weight: bold;
+	text-align: center;
+	leading: 4;
+}
+
+p { 
+	color: #999999; 
+	font-size: 12; 
+	font-family: Arial;
+	text-align: center;
+}
+
+ft { 
+	color: #bbbbbb; 
+	font-size: 12; 
+	font-family: Arial;
+	text-align: center;
+}
+
+reservetable { 
+	color: #ffffff; 
+	font-size: 12; 
+	font-family: Arial;
+	font-weight: bold;
+	font-style: italic;
+	text-align: center;
+}
+
+testimonial { 
+	color: #bbbbbb; 
+	font-size: 16; 
+	font-family: Arial;
+	font-weight: normal;
+	font-style: italic;
+	text-align: left;
+}
+
+scriptheadline { 
+	color: #ff9c00; 
+	font-size: 55; 
+	font-family: CAC Champagne;
+	text-align: left;
+}
+
+scripttext { 
+	color: #e0c397; 
+	font-size: 26; 
+	font-family: CAC Champagne;
+	text-align: left;
+}
+
+scripttext2 { 
+	color: #ff9c00; 
+	font-size: 36; 
+	font-family: CAC Champagne;
+	text-align: left;
+}
+
+smallwhite { 
+	color: #ffffff; 
+	font-size: 12; 
+	font-family: Arial;
+	font-weight: bold;
+	font-style: italic;
+	text-align: left;
+}
+
+content { 
+	color: #999999; 
+	font-size: 12; 
+	font-family: Arial;
+	text-align: left;
+	leading: 4;
+}
+
+newsheadline1small { 
+	color: #e0c397; 
+	font-size: 15; 
+	font-family: Arial; 
+	font-weight: bold;	
+	text-align: left;
+	leading: 2;
+}
+
+newsheadline2small { 
+	color: #ff9c00; 
+	font-size: 28; 
+	font-family: CAC Champagne;
+	text-align: left;
+}
+
+contentheadline1 { 
+	color: #e0c397; 
+	font-size: 40; 
+	font-family: CAC Champagne; 
+	text-align: center;
+	letter-spacing: 1;
+}
+
+contentheadline2 { 
+	color: #aaaaaa; 
+	font-size: 17; 
+	font-family: Arial; 
+	font-weight: bold;
+	text-align: center;
+}
+
+teaser { 
+	color: #808080; 
+	font-size: 12; 
+	font-family: Arial;
+	text-align: left;
+	leading: 3;
+}
+
+teaserheadline { 
+	color: #ff9c00; 
+	font-size: 12; 
+	font-family: Arial;
+	text-align: left;
+	font-weight: bold;
+	font-style: italic;
+}
+
+li {
+	color: #e0c397; 
+	font-size: 13; 
+	font-family: Arial;
+	font-weight: bold;
+}
+
+/* ALTERNATE BANNER STYLES */
+
+headline_pink { 
+	color: #b1004f; 
+	font-size: 19; 
+	font-family: Arial; 
+	font-weight: bold;
+	text-align: left;
+}
+
+headline_blue { 
+	color: #5897ff; 
+	font-size: 31; 
+	font-family: Arial; 
+	font-weight: bold;
+	text-align: left;
+}
+
+headline_orange { 
+	color: #e3853a; 
+	font-size: 31; 
+	font-family: Arial; 
+	font-weight: bold;
+	text-align: left;
+}
+
+script_blue { 
+	color: #3439a9; 
+	font-size: 41; 
+	font-family: CAC Champagne; 
+	text-align: left;
+}
+
+script_white { 
+	color: #ffffff; 
+	font-size: 47; 
+	font-family: CAC Champagne; 
+	text-align: right;
+	leading: -10;
+}
+
+script_white_big { 
+	color: #ffffff; 
+	font-size: 67; 
+	font-family: CAC Champagne; 
+	text-align: center;
+	leading: -10;
+}
+
+script_black_big { 
+	color: #695c4d; 
+	font-size: 37; 
+	font-family: CAC Champagne; 
+	text-align: left;
+	leading: -10;
+}
+
+script_crema { 
+	color: #fdd18d; 
+	font-size: 47; 
+	font-family: CAC Champagne; 
+	text-align: right;
+	leading: -10;
+}
+
+content_banner { 
+	color: #222222; 
+	font-size: 13; 
+	font-family: Arial;
+	text-align: left;
+	leading: 2;
+}
+
+content_light { 
+	color: #bbbbbb; 
+	font-size: 13; 
+	font-family: Arial;
+	text-align: left;
+	leading: 2;
+}
+
+content_chunk { 
+	color: #416159; 
+	font-size: 15; 
+	font-family: Arial; 
+	font-weight: bold;
+	text-align: left;
+}
+
+a:link {color: #ff9c00; font-family: Arial; font-size: 12;}
+a:hover {color: #ffb66e; font-family: Arial; font-size: 12;}

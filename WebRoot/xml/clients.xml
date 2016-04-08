@@ -1,0 +1,66 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+
+<welcomepage>
+
+	<creativebanner
+		banneractive="false"
+		bannerwidth="780"
+		bannerheight="160"
+		
+		imagewidth="770"
+		imageheight="120"
+		
+		autoplay="true"
+		timerpauseonhover="false"
+		playpauseactivated="true"
+		
+		backgroundpatterncolor="0x000000"
+		backgroundpatternopacity="1"
+		solidbackgroundcolor="0x222222"
+		solidbackgroundopacity="1"
+		bannerbackgroundcolor="0x111111"
+		bannerbackgroundopacity="1"
+		
+		selectbuttonspacing="5"
+		selectbuttonpaddingleft="10"
+		selectbuttonpaddingbottom="10"
+		selectbuttonorientation="center"
+		selectbuttonstyle="dark"
+		
+		imageshadowopacity="0.8"
+		imageshadowblur="15"
+		imageshadowcolor="0x000000"
+		imageshadowdistance="15"
+		imageshadowangle="90"
+		
+		timerbarpos="bottom"
+		timerbarheight="3"
+		timerbarcolor="0xffffff"
+		timerbaropacity="0.2"
+	></creativebanner>
+	
+	<contenttext
+		contentheight="475"
+		contenttopdistance="0"
+		contentbgtextpadding="20"
+		contentbgcolor="0x000000"
+		contentbgopacity="0.7"
+		contentscrollbarcolor="0xffbe78"
+		contentscrollbarwidth="8"
+		contentscrollbarheight="60"
+		contentscrollbaropacity="0.2"
+		contentscrollamount="30"
+		contentscrollease="5"
+	>
+	<![CDATA[
+		<contentheadline1>Some of our most Prestigious Clients</contentheadline1>
+		<content>
+		<br/><img align="left" src="images/clients1.jpg" hspace="15" vspace="0"/><contentheadline2>Epicure XML Website Template with Deep Linking</contentheadline2>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.<br/><br/><a href="http://sc.chinaz.com/?item/epicure-xml-website-template-with-deep-linking/125076">-> Click to Visit Site</a><br/><br/><br/>
+		<img align="left" src="images/clients2.jpg" hspace="15" vspace="0"/><contentheadline2>XML Business Portfolio Template with Deep Linking</contentheadline2>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.<br/><br/><a href="http://sc.chinaz.com/?item/xml-business-portfolio-template-with-deep-linking/107087">-> Click to Visit Site</a><br/><br/><br/>
+		<img align="left" src="images/clients3.jpg" hspace="15" vspace="0"/><contentheadline2>AS3 Imagefolio Portfolio Template</contentheadline2>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.<br/><br/><a href="http://sc.chinaz.com/?item/as3-imagefolio-portfolio-template/117094">-> Click to Visit Site</a><br/><br/><br/>
+		<img align="left" src="images/clients4.jpg" hspace="15" vspace="0"/><contentheadline2>XML Clean White Portfolio Template</contentheadline2>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.<br/><br/><a href="http://sc.chinaz.com/?item/xml-clean-white-portfolio-template/88721">-> Click to Visit Site</a><br/><br/><br/>
+		</content>
+	]]>
+	</contenttext>
+
+</welcomepage>
