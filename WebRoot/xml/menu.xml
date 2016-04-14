@@ -79,7 +79,7 @@
     moduleheight="" backgroundimage="" urllink="" urltarget="">
         <submenu headline="版权所有" deeplink="" module="" modulexml="" modulealign=""
         modulewidth="" moduleheight="" backgroundimage="backgrounds/bg.jpg" urllink="copyright.html"
-        urltarget="" />
+        urltarget="_blank" />
         <submenu headline="微信客服" deeplink="" module="" modulexml="" modulealign=""
         modulewidth="" moduleheight="" backgroundimage="backgrounds/bg.jpg" urllink="http://www.liweizone.com"
         urltarget="_blank" />

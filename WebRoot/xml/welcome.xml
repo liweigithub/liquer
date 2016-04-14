@@ -21,7 +21,7 @@
 					 這里填写几种主酿的信息
 				<br/>
 			</teaser>
-			<teaserheadline>点击这里阅读更多!!</teaserheadline>
+			<teaserheadline>点击查看详细!</teaserheadline>
 		]]>
 		</teaser>
 		<teaser
@@ -71,8 +71,8 @@
 		
 		<teaser
 			imageurl="images/teaser5.jpg"
-			clicklink="index.html#/our-restaurant-5x4"
-			clicktarget="_top"
+			clicklink="map.jsp"
+			clicktarget="_blank"
 		>
 		<![CDATA[
 			<teaserheadline>在线查看位置</teaserheadline>

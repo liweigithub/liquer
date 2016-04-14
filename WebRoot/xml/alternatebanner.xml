@@ -138,7 +138,7 @@
 		
 		textbackgroundxpos="0"
 		textbackgroundypos="30"
-		textpaddingtop="30"
+		textpaddingtop="1"
 		textpaddingleft="30"
 		textpaddingright="17"
 		textbackgroundwidth="800"
@@ -154,7 +154,7 @@
 		textbackgroundshadowstrength="1"
 	>
 		<![CDATA[
-			<script_white_big>汉源。酒香天下</script_white_big>
+			<script_white_big>汉源  ● 酒香天下</script_white_big>
 		]]>
 	</slide>
 	
@@ -265,11 +265,11 @@
 		
 		textbackgroundxpos="0"
 		textbackgroundypos="0"
-		textpaddingtop="30"
+		textpaddingtop="0"
 		textpaddingleft="30"
 		textpaddingright="30"
 		textbackgroundwidth="800"
-		textbackgroundheight="110"
+		textbackgroundheight="0"
 		textbackgroundrotation="0"
 		textbackgroundcolor="0x000000"
 		textbackgroundopacity="1"

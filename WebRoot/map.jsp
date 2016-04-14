@@ -94,7 +94,7 @@ div img {
 			var info = [];
 			info.push("<div><img src=\" images/map_title.png \"/> ");
 			info.push("<hr>");
-			info.push("<div><a target='_blank' href='<%=basePath%>'><img width='290px' height='85px' style='margin-top:-14px' src=' images/map_banner.jpg'/></a>");
+			info.push("<div><a target='_blank' href='<%=basePath%>/index.jsp#/teaser-welcome'><img width='290px' height='85px' style='margin-top:-14px' src=' images/map_banner.jpg'/></a>");
 			info.push("<table style='margin-top:-70px'>");
 			info.push("<tr><th>地址:<th><td>汉源县,大田乡,新中村,加油站附近<td></tr>");
 			info.push("<tr><th>电话:<th><td>17051107107<td></tr>");
