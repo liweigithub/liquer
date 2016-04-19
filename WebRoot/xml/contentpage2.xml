@@ -1,20 +1,5 @@
-﻿
-<!-- # ------------------------------------------------------------------
-# kickassGFX.net - Best Graphic Source - Free Themes, Scripts & Plugins 
-# -----------------------------------------------------------------------
-# This file has been downloaded from KickassGFX.net
-# Homepage: http://www.kickassgfx.net/
-# -----------------------------------------------------------------------
-# You'll find your Updates everyday at KickassGFX.net
-# -----------------------------------------------------------------------
-# If you need support with this template you can
-# contact us at   http://www.kickassgfx.net/
-# ------------------------------------------------------------------- -->
-
-<?xml version='1.0' encoding='utf-8'?>
-
+﻿<?xml version='1.0' encoding='utf-8'?>
 <welcomepage>
-
 	<creativebanner
 		banneractive="false"
 		bannerwidth="980"
@@ -64,15 +49,16 @@
 		contentscrollamount="80"
 		contentscrollease="4"
 		
-		textfieldheight="600"
+		textfieldheight="900"
 	>
 	<![CDATA[
 		<contentheadline1>A Pleasant and Elegant Ambience coupled with the Finest Foods</contentheadline1>
 		<img align="left" src="images/inline2.png" hspace="20" vspace="5"/>
 		<content>
+		
+		
 			<img align="left" src="images/test.png" hspace="20" vspace="5"/>
-
-			/content>
+			</content>
 	]]>
 	</contenttext>
 

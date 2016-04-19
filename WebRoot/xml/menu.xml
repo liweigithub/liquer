@@ -14,12 +14,21 @@
     </mainmenu>
     <mainmenu headline="大厅" deeplink="our-restaurant" module="" modulexml=""
     	modulealign="" modulewidth="" moduleheight="" backgroundimage="" urllink="" urltarget="">
-        <submenu headline="关于食物" deeplink="about-food-deluxe" module="contentpage.swf"
-        modulexml="xml/contentpage1.xml" modulealign="top" modulewidth="980" moduleheight="0"
-        backgroundimage="backgrounds/bg2.jpg" urllink="" urltarget="" />
-        <submenu headline="办厂理念" deeplink="the-philosophy" module="contentpage.swf"
+       
+     
+     <submenu headline="办厂理念" deeplink="the-philosophy" module="contentpage.swf"
         modulexml="xml/contentpage2.xml" modulealign="top" modulewidth="980" moduleheight="0"
         backgroundimage="backgrounds/bg6.jpg" urllink="" urltarget="" />
+     
+      <submenu headline="酒厂地图" deeplink="" module=""
+        modulexml="" modulealign="center" modulewidth="920" moduleheight="500"
+        backgroundimage="backgrounds/bg7.jpg" urllink="map.jsp" urltarget="_blank" />
+        
+        
+         <submenu headline="关于批发" deeplink="about-food-deluxe" module="contentpage.swf"
+        modulexml="xml/contentpage1.xml" modulealign="top" modulewidth="980" moduleheight="0"
+        backgroundimage="backgrounds/bg2.jpg" urllink="" urltarget="" />
+        
         <!-- 
         <submenu headline="我们的团队" deeplink="our-qualified-team" module="contentpage.swf"
         modulexml="xml/team.xml" modulealign="center" modulewidth="780" moduleheight="420"
@@ -67,13 +76,9 @@
         modulexml="xml/mediagallery_4x3.xml" modulealign="center" modulewidth="920" moduleheight="500"
         backgroundimage="backgrounds/bg7.jpg" urllink="" urltarget="" /> -->
       
-      <!--  <submenu headline="酒厂地图" deeplink="our-restaurant-5x4" module="contentpage.swf"
-        modulexml="xml/about_addres.xml" modulealign="center" modulewidth="920" moduleheight="500"
-        backgroundimage="backgrounds/bg7.jpg" urllink="" urltarget="" /> -->
-        
-        <submenu headline="酒厂地图" deeplink="" module=""
-        modulexml="" modulealign="center" modulewidth="920" moduleheight="500"
-        backgroundimage="backgrounds/bg7.jpg" urllink="map.jsp" urltarget="_blank" />
+      <submenu headline="饮酒常识" deeplink="our-restaurant-5x4" module="contentpage.swf"
+        modulexml="xml/about_drink.xml" modulealign="center" modulewidth="920" moduleheight="500"
+        backgroundimage="backgrounds/bg7.jpg" urllink="" urltarget="" />
     </mainmenu>
     <mainmenu headline="友情链接" deeplink="" module="" modulexml="" modulealign="" modulewidth=""
     moduleheight="" backgroundimage="" urllink="" urltarget="">

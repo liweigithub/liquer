@@ -124,7 +124,8 @@
 	<![CDATA[
 		<contentheadline1>You will love every bit of our <font color="#ff9c00">traditional Cuisine</font></contentheadline1>
 		<content> 
-			<img align="left" src="images/aboutzx.gif" hspace="15" vspace="0"/>
+		<font color="#ff9c00" size="15px">sadsadasd</font>
+			 <!-- <img align="left" src="images/aboutzx.gif" hspace="15" vspace="0"/> --> 
 		</content>
 	]]>
 	</contenttext>

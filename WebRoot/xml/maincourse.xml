@@ -79,9 +79,8 @@
 		
 			<teasertext>
 				<![CDATA[
-					<newsheadline2small>玉米酒</newsheadline2small><newsheadline1small>主酿 - ￥8.99/斤</newsheadline1small><content><br/>
-
-					玉米酒 以玉米为原料酿制的甜酒，营养丰富，香味沁人心脾，是中度甜酒产品的又一奇葩
+					<newsheadline2small>荞麦酒</newsheadline2small><newsheadline1small>主酿 - ￥8.99/斤</newsheadline1small><content><br/>
+				荞麦是人们主要粮食品之一，原产于中国北方内蒙古和龙贵地区。公元前5世纪的《神农书》中将荞麦列入为八谷之一。唐朝时，荞麦食品由中国经朝鲜进入日本后，吃法达百余种，现今荞麦及荞麦面条在日本十分流行。因其含丰富营养和特殊的健康成分颇受推崇，被誉为健康主食品，人们视之为理想的保健食品，尤其是对高血压、冠心病、糖尿病、癌症等有特殊的保健作用。
 				</content>
 				]]>
 			</teasertext>
@@ -90,13 +89,9 @@
 				textheight="500"
 			>
 				<![CDATA[
-					<newsheadline2small>海鲜意大利面</newsheadline2small><newsheadline1small>主酿 - ￥ 12,99</newsheadline1small>
-					<content><br/><img align="left" src="images/inline1.jpg" hspace="15" vspace="0"/>萨达萨达萨达萨达萨达萨达阿萨是德 vero eos et accusam et justo duo dolores. 
-					Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr,撒打算撒打算 sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.<br/><br/>
-					Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy 撒打算eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
-					<br/>The text can be formatted with HTML/CSS styles. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores. 
-					Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
-					Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+					<newsheadline2small>荞麦酒</newsheadline2small><newsheadline1small>主酿 - ￥ 12,99</newsheadline1small>
+					<content>
+					荞麦是人们主要粮食品之一，原产于中国北方内蒙古和龙贵地区。公元前5世纪的《神农书》中将荞麦列入为八谷之一。唐朝时，荞麦食品由中国经朝鲜进入日本后，吃法达百余种，现今荞麦及荞麦面条在日本十分流行。因其含丰富营养和特殊的健康成分颇受推崇，被誉为健康主食品，人们视之为理想的保健食品，尤其是对高血压、冠心病、糖尿病、癌症等有特殊的保健作用。
 					</content>
 				]]>
 			</fulltext>
@@ -111,7 +106,8 @@
 		
 			<teasertext>
 				<![CDATA[
-					<newsheadline2small>海鲜意大利面</newsheadline2small><newsheadline1small>主酿 - ￥ 9,99</newsheadline1small><content><br/>撒打算萨达发达国家很久很久的丰盛的发生大幅度
+					<newsheadline2small>小麦酒</newsheadline2small><newsheadline1small>主酿 - ￥ 9,99</newsheadline1small><content><br/>
+					纯粮食白酒是世界蒸馏酒中独具一格的酒类，为麦黍、荞麦、高粱、小麦、大麦、玉米、红薯、米糠等粮食或其他果品发酵、曲酿、蒸馏而成的一种饮料。其酒液无色透明，故称为白酒。白酒芳香浓郁，醇和软润，风味多样。因主要采用烧(蒸)工序，亦称烧酒。因含酒精量较高，所有有些地方直呼其为烈性酒或高度酒。我国的名白酒，历史悠久，在世界上独树一帜。
 				</content>
 				]]>
 			</teasertext>
@@ -120,11 +116,11 @@
 				textheight="500"
 			>
 				<![CDATA[
-					<newsheadline2small>海鲜意大利面</newsheadline2small><newsheadline1small>主酿 - ￥ 9,99</newsheadline1small>
-					<content><br/><img align="left" src="images/inline1.jpg" hspace="15" vspace="0"/>萨达萨达阿萨德撒的萨达阿萨德萨达.<br/><br/>
-					大声地说撒的撒	
-					Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
-					Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+					<newsheadline2small>小麦酒</newsheadline2small><newsheadline1small>主酿 - ￥ 9,99</newsheadline1small>
+					<content><br/>
+					<!-- <img align="left" src="images/inline1.jpg" hspace="15" vspace="0"/>萨达萨达阿萨德撒的萨达阿萨德萨达.<br/><br/> -->
+					纯粮食白酒是世界蒸馏酒中独具一格的酒类，为麦黍、荞麦、高粱、小麦、大麦、玉米、红薯、米糠等粮食或其他果品发酵、曲酿、蒸馏而成的一种饮料。其酒液无色透明，故称为白酒。白酒芳香浓郁，醇和软润，风味多样。因主要采用烧(蒸)工序，亦称烧酒。因含酒精量较高，所有有些地方直呼其为烈性酒或高度酒。我国的名白酒，历史悠久，在世界上独树一帜。	
+					
 					</content>
 				]]>
 			</fulltext>

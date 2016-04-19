@@ -111,8 +111,8 @@
 		textbackgroundshadowstrength="1"
 	>
 		<![CDATA[
-			<headline_pink>特别优惠!</headline_pink>
-			<content_banner><br/>s商品全新出来,先到先得<br/>它能满足 <b>用户</b>, <b>的需求</b>每个商品对应价格<br/></content_banner>
+			<headline_pink>买的越多，优惠越多！</headline_pink>
+			<content_banner><br/>酿造原料采用采用淮北平原红高粱,先到先得<br/>它能满足: <br/><b>口味：纯真</b>、<b>甘甜</b>、<b>可口</b><br/>每种类型都有不同的价格！买的越多，优惠越多，您还在等什么。<br/></content_banner>
 			<script_blue>非常棒!</script_blue>
 		]]>
 	</slide>
@@ -281,14 +281,14 @@
 		textbackgroundshadowstrength="1"
 	>
 		<![CDATA[
-			<headline_blue>说的是撒旦户籍科撒旦</headline_blue>
-			<content_light><br/>... . .你想要的方式！可以有<b>类型和原物</b>.<br/>The <b>Transition</b> 都是来自新疆维吾尔自治区</content_light>
+			<headline_blue>定制购买，品种多，口味棒。</headline_blue>
+			<content_light><br/>... . .选择性广！零售<b>批发和定制</b>.<br/>nice <b>humanization</b> 详情请到店咨询！我们热切的希望您前来购买！</content_light>
 		
 		]]>
 	</slide>
 	
 	<!-- entrytpye = image, youtube or video -->
-	<slide
+	<!-- <slide
 		entrytype="image"
 		entryvideopreviewimage=""
 		entryurl="images/banner4.jpg"
@@ -328,5 +328,5 @@
 			<content_banner><br/>你将会品尝到前所未有过的味道!<br/><br/>在现场,您可以免费品尝我们新推出的产品，同时你还可以给予评价,我们会在消费人群中,听取大家的意见<br/></content_banner>
 			<script_black_big>如果喜欢我们的酒，请随时与我们保持联系,我们将在推出新产品之前联系您</script_black_big>
 		]]>
-	</slide>
+	</slide> -->
 </theshow>

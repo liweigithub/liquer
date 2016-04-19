@@ -15,13 +15,15 @@
 			clicktarget="_top"
 		>
 		<![CDATA[
-			<teaserheadline>主酿简介</teaserheadline>
+			
 			<teaser>
 				<br/>
-					 這里填写几种主酿的信息
+					<font color="#ff9c00"  size="18px">四川酿酒自古兴盛，素有"名酒之乡"的美称。这里粮源充足，山多水美，气温适宜，酿酒历史悠久，工艺独特，致使名酒倍出，香飘四海.<br/></font>
 				<br/>
+				<font  size="18px">本厂推出以下粮食酒：<br/><br/></font>
+				高粱酒、玉米酒、荞麦酒、小麦酒
 			</teaser>
-			<teaserheadline>点击查看详细!</teaserheadline>
+			
 		]]>
 		</teaser>
 		<teaser
@@ -30,15 +32,14 @@
 			clicktarget="_top"
 		>
 		<![CDATA[
-			<teaserheadline>点击查看最新动态</teaserheadline>
 			<teaser>
 				<br/>
-					额外人进来看v而考虑接耳机口连接二级路口额外人进口量额外加入可立即额外人看记录
-					金额为客人连接来客金额无人可立即额外客人进来进口了人家
-					额外人进
+					清泉酒厂现正式成立官方网站，现正式打通实体与互联网于一体。
+					您再也不用担心买酒排队，耽误您宝贵的时间了。现在您可以在线下单我们随时为您备酒。
+					由于地区限制，暂不支持送货上门，还请广大消费者理解与支持。
+					您只需在网上预约，我们将在一定时间内给您准备，您上门提取即可。
 				<br/>
 			</teaser>
-			<teaserheadline>点击这里阅读更多!!</teaserheadline>
 		]]>
 		</teaser>
 		
@@ -51,7 +52,7 @@
 			<teaserheadline>办厂简介</teaserheadline>
 			<teaser>
 				<br/>
-					這里填宗旨
+					汉源清泉酒厂成立于2014年11月10日，主酿:高粱酒、小麦酒，玉米酒,地方土特产等,是一家以纯粮酿造和信誉销售为主的民营企业
 				<br/>
 			</teaser>
 			<teaserheadline>点击这里查看更多..</teaserheadline>
@@ -64,8 +65,8 @@
 			clicktarget="_top"
 		>
 		<![CDATA[
-			<teaserheadline>意大利面沙拉</teaserheadline>
-			<teaser><br/>四川省雅安市汉源县</teaserheadline>
+			<!-- <teaserheadline>意大利面沙拉</teaserheadline> -->
+			<teaser><br/>我们会尽量的满足广大消费者的需求，如果您有更好的建议与意见，请您点击上方反馈按钮进行反馈，我们会积极采纳您的意见。  </teaserheadline>
 		]]>
 		</teaser>
 		
@@ -78,21 +79,23 @@
 			<teaserheadline>在线查看位置</teaserheadline>
 			<teaser>
 				<br/>
-					這里填详细位置
+					汉源县有“中国花椒之乡”之称，气候独特、资源丰富，经济发展后劲充足，汉源县历史悠久、文化灿烂。 “富林文化”、“狮子山文化”享誉中外;“南方丝绸之路”、“茶马古道”名贯古今,汉源盛产水稻、小麦、玉米、红薯、土豆、花生等农作物；“汉源贡椒”
 				<br/>
 			</teaser>
-			<teaserheadline>点击定位..</teaserheadline>
+			
 		]]>
 		</teaser>
 		
 		<teaser
 			imageurl="images/teaser6.jpg"
-			clicklink="index.html#/flash-video-show-reel"
+			clicklink="index.html#/our-restaurant-5x4"
 			clicktarget="_top"
 		>
 		<![CDATA[
-			<teaserheadline>每天自助沙拉</teaserheadline>
-			<teaser><br/>所得税看哈手机开的会尽快回家手机的客户机哈萨克的机会可结合撒旦进口货<br/></teaser>
+			<!-- <teaserheadline></teaserheadline> -->
+			<teaser>
+			高粱作为酿酒的主要原料，素有“五谷之长”的盛誉，其性温、味甘、涩，具有和胃健脾、凉血解毒、止泄的功效，可用来防止食积、消化不良、温热、下痢和小便不利等多种疾病;大米、糯米富含B类维生素，大米是预防脚气病、消除口腔类病的主要食疗资源，并对脂肪的吸收具有促进作用;糯米能温暖脾胃，补益中气，有补虚、补血、止汗等用，适用于脾胃虚寒导致的反胃、食欲减少、泄泻和气虚引起的汗虚、气短、无力等症。<br/>
+			</teaser>
 			<teaserheadline>点击这里阅读更多!!!!</teaserheadline>
 		]]>
 		</teaser>
