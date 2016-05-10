@@ -11,7 +11,7 @@
 	<head>
 		<base href="<%=basePath%>">
 
-		<title>欢迎来到清泉酒厂官方网站11</title>
+		<title>清泉酒厂官方网站</title>
 		<link rel="shortcut icon" href="favicon.ico"/>
 		<link rel="bookmark" href="favicon.ico"/>
 		<meta http-equiv="pragma" content="no-cache">

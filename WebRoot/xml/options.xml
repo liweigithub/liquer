@@ -4,7 +4,7 @@
     headermaxheight="150" headerbgcolor1="0x000000" headerbgcolor2="0x1b1510" headerbgalpha="1"
     headerbgglarealpha="0.2" bodybgcolor="0x000000" bodybgalpha="0.3" templatewidth="980"
     templateheight="500" logourl="logo/logo.png" logoorientation="center" logoheight="64"
-    logopadding="0" logoclicklink="preview.html#/teaser-welcome" logoclicktarget="_top"
+    logopadding="0" logoclicklink="http://www.hyaroma.com:8080/liquer/" logoclicktarget="_top"
     menufont="Arial" textfont="Arial" menufontbold="true" menualign="center" menubarcolor1="0x2d251f"
     menubarcolor2="0x000000" menubarshadowdistance="5" menubarshadowstrength="20" menubarshadowopacity="0.7"
     menubaralpha="1" menubarheight="40" menubarpadding="0" menufontsize="12" menuspacing="30"
@@ -20,14 +20,14 @@
     <socialentries socialleftpadding="10" socialbottompadding="0" socialbgcolor="0x23170e"
     socialbgrounded="5" socialtextcolor="0xffffff" socialtextsize="12" socialtextshadowalpha="0"
     socialtextshadowblur="0" socialtextshadowcolor="0x000000" sociallogosize="20" sociallogospacing="5">
-        <socialentry iconlink="social/facebook.png" urllink="http://www.liweizone.com"
+        <socialentry iconlink="social/facebook.png" urllink="http://www.hyaroma.com:8080/liquer/"
         urltarget="_blank">
             Facebook
         </socialentry>
-        <socialentry iconlink="social/twitter.png" urllink="http://www.liweizone.com" urltarget="_blank">
+        <socialentry iconlink="social/twitter.png" urllink="http://www.hyaroma.com:8080/liquer/" urltarget="_blank">
             Twitter
         </socialentry>
-        <socialentry iconlink="social/flickr.png" urllink="http://www.liweizone.com" urltarget="_blank">
+        <socialentry iconlink="social/flickr.png" urllink="http://www.hyaroma.com:8080/liquer/" urltarget="_blank">
             Flickr
         </socialentry>
         <socialentry iconlink="social/linkedin.png" urllink="http://www.liweizone.com"
@@ -50,6 +50,6 @@
         </song>
     </musicentries>
     <footertext>
-        <![CDATA[ <ft>2015 copyright http://www.qcjc.com/ | &nbsp;T e l: &nbsp; <a href="http://mail.qq.com/"> 15183517217</a></ft> ]]>
+        <![CDATA[ <ft>2015 copyright <a href="http://www.hyaroma.com:8080/liquer/">www.hyaroma.com</a> | &nbsp;T e l: &nbsp; <a href="tel:17051107107"> 17051107107</a></ft> ]]>
     </footertext>
 </options>
