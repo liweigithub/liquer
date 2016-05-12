@@ -48,7 +48,7 @@
 	</infotext>
 	
 	<formfields
-		requiredtext="带有　＊　的字段是必填项的"
+		requiredtext="带有　＊　的项是必填项的"
 		finishedtext="谢谢你,预订请求已发送!我们将在24小时之内与您联系!"
 		notfinishedtext="预订错误错误!"
 		submitbuttontext="预订"
@@ -62,25 +62,12 @@
 		/>
 		
 		<field
-			fieldtitle="　＊　时间(例如:下午2点/上午2点)"
-			fieldrequired="true"
-			fieldvar="timevar"
-			fielderror="请输入您预订的时间!"
-		/>
-		
-		<field
 			fieldtitle="　＊　需要数量:"
 			fieldrequired="true"
 			fieldvar="guestsvar"
 			fielderror="请输入斤两!"
 		/>
 		
-		<field
-			fieldtitle="使用场景"
-			fieldrequired="false"
-			fieldvar="occasionvar"
-			fielderror="请输入场景！"
-		/>
 		
 		<field
 			fieldtitle="　＊　名字"
@@ -88,56 +75,23 @@
 			fieldvar="firstnamevar"
 			fielderror="请输入你的名字!"
 		/>
-		
-		<field
-			fieldtitle="　＊　确认名称 *"
-			fieldrequired="true"
-			fieldvar="lastnamevar"
-			fielderror="名称请确认!"
-		/>
-		
 		<field
 			fieldtitle="　＊　地址"
 			fieldrequired="false"
 			fieldvar="streetvar"
 			fielderror="请输入地址"
 		/>
-		
-		<field
-			fieldtitle="市区"
-			fieldrequired="false"
-			fieldvar="cityvar"
-			fielderror="请输入市区"
-		/>
-		
-		<field
-			fieldtitle="　＊　邮政编码"
-			fieldrequired="false"
-			fieldvar="postalvar"
-			fielderror="请输入邮政编码！"
-		/>
-		
-		<field
+		 <field
 			fieldtitle="　＊　手机:"
 			fieldrequired="true"
 			fieldvar="phonevar"
 			fielderror="请输入手机号码！"
 		/>
-		
 		<field
 			fieldtitle="　＊　邮箱地址: "
 			fieldrequired="true"
 			fieldvar="emailvar"
 			fielderror="请输入邮箱地址:"
 		/>
-		
-		<field
-			fieldtitle="电话"
-			fieldrequired="false"
-			fieldvar="mobilevar"
-			fielderror=""
-		/>
-	
 	</formfields>
-	
 </contactform>
