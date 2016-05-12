@@ -10,7 +10,7 @@
         backgroundimage="backgrounds/bg.jpg" urllink="" urltarget="" />
       <!--   <submenu headline="标准的旗帜 " deeplink="standard-banner" module="banner.swf"
         modulexml="xml/servicebanner.xml" modulealign="center" modulewidth="780" moduleheight="500"
-        backgroundimage="backgrounds/bg.jpg" urllink="" urltarget="" /> -->
+        backgroundimage="backgrounds/bg.jpg" urllink="" urltarget="	" /> -->
     </mainmenu>
     <mainmenu headline="大厅" deeplink="our-restaurant" module="" modulexml=""
     	modulealign="" modulewidth="" moduleheight="" backgroundimage="" urllink="" urltarget="">
@@ -85,8 +85,8 @@
         <submenu headline="版权所有" deeplink="" module="" modulexml="" modulealign=""
         modulewidth="" moduleheight="" backgroundimage="backgrounds/bg.jpg" urllink="copyright.html"
         urltarget="_blank" />
-        <submenu headline="微信客服" deeplink="" module="" modulexml="" modulealign=""
-        modulewidth="" moduleheight="" backgroundimage="backgrounds/bg.jpg" urllink="http://www.liweizone.com"
+        <submenu headline="客服" deeplink="" module="" modulexml="" modulealign=""
+        modulewidth="" moduleheight="" backgroundimage="backgrounds/bg.jpg" urllink="http://wpa.qq.com/msgrd?v=3&uin=1099532501&site=qq&menu=yes"
         urltarget="_blank" />
     </mainmenu>
 </menuentries>
