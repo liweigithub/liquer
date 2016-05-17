@@ -15,6 +15,7 @@
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta content="telephone=no,email=no" name="format-detection">
 <title>清泉酒厂在线地图</title>
+
 <link rel="stylesheet" href="<%=basePath%>/css/animate.min.css" />
 <!-- 动画效果 -->
 <link rel="stylesheet" href="http://cache.amap.com/lbs/static/main.css?v=1.0" />
@@ -113,6 +114,23 @@ div img {
 	<div id="HBox">
 		<!--控制图片的div -->
 		<div class="baguetteBoxOne gallery">
+		<div id="photo" style="height: 520px;overflow: hidden;">
+	
+			<a href="images/map/1.jpg"><img width="238px" height="178px" src="images/map/1.jpg"></a>
+			<a href="images/map/2.jpg"><img width="238px" height="178px" src="images/map/2.jpg"></a>
+			<a href="images/map/3.jpg"><img width="238px" height="178px" src="images/map/3.jpg"></a>
+			<a href="images/map/4.jpg"><img width="238px" height="178px" src="images/map/4.jpg"></a>
+			<a href="images/map/5.jpg"><img width="238px" height="178px" src="images/map/5.jpg"></a>
+			<a href="images/map/6.jpg"><img width="238px" height="178px" src="images/map/6.jpg"></a>
+			<a href="images/map/7.jpg"><img width="238px" height="178px" src="images/map/7.jpg"></a>
+			<a href="images/map/9.jpg"><img width="238px" height="178px" src="images/map/9.jpg"></a>
+			<a href="images/map/10.jpg"><img width="238px" height="178px" src="images/map/10.jpg"></a>
+			<a href="images/map/11.jpg"><img width="238px" height="178px" src="images/map/11.jpg"></a>
+			<a href="images/map/7.jpg"><img width="238px" height="178px" src="images/map/7.jpg"></a>
+			<a href="images/map/8.jpg"><img width="238px" height="178px" src="images/map/8.jpg"></a>
+			<a href="images/1-6.jpg"><img src="images/thumbs/1-6.jpg"></a>
+			<a href="images/1-6.jpg"><img src="images/thumbs/1-6.jpg"></a>
+			<a href="images/1-6.jpg"><img src="images/thumbs/1-6.jpg"></a>
 			<a href="images/1-3.jpg"><img src="images/thumbs/1-3.jpg"></a>
 			<a href="images/1-4.jpg"><img src="images/thumbs/1-4.jpg"></a>
 			<a href="images/1-5.jpg"><img src="images/thumbs/1-5.jpg"></a>
@@ -128,21 +146,7 @@ div img {
 			<a href="images/1-6.jpg"><img src="images/thumbs/1-6.jpg"></a>
 			<a href="images/1-6.jpg"><img src="images/thumbs/1-6.jpg"></a>
 			<a href="images/1-6.jpg"><img src="images/thumbs/1-6.jpg"></a>
-			<a href="images/1-3.jpg"><img src="images/thumbs/1-3.jpg"></a>
-			<a href="images/1-4.jpg"><img src="images/thumbs/1-4.jpg"></a>
-			<a href="images/1-5.jpg"><img src="images/thumbs/1-5.jpg"></a>
-			<a href="images/1-6.jpg"><img src="images/thumbs/1-6.jpg"></a>
-			<a href="images/1-3.jpg"><img src="images/thumbs/1-3.jpg"></a>
-			<a href="images/1-4.jpg"><img src="images/thumbs/1-4.jpg"></a>
-			<a href="images/1-5.jpg"><img src="images/thumbs/1-5.jpg"></a>
-			<a href="images/1-6.jpg"><img src="images/thumbs/1-6.jpg"></a>
-			<a href="images/1-3.jpg"><img src="images/thumbs/1-3.jpg"></a>
-			<a href="images/1-4.jpg"><img src="images/thumbs/1-4.jpg"></a>
-			<a href="images/1-5.jpg"><img src="images/thumbs/1-5.jpg"></a>
-			<a href="images/1-6.jpg"><img src="images/thumbs/1-6.jpg"></a>
-			<a href="images/1-6.jpg"><img src="images/thumbs/1-6.jpg"></a>
-			<a href="images/1-6.jpg"><img src="images/thumbs/1-6.jpg"></a>
-			<a href="images/1-6.jpg"><img src="images/thumbs/1-6.jpg"></a>
+		</div>
 		</div>
 	</div>
 	<!--控制弹框的js -->
