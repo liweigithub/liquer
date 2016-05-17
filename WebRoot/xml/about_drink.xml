@@ -2,30 +2,32 @@
 <welcomepage>
 
 	<creativebanner banneractive="false" bannerwidth="980"
-		bannerheight="0" imagewidth="0" imageheight="0" autoplay="true"
+		bannerheight="1000" imagewidth="0" imageheight="0" autoplay="true"
 		timerpauseonhover="false" playpauseactivated="true"
 		solidbackgroundcolor="0x222222" solidbackgroundopacity="1"
-		selectbuttonspacing="5" selectbuttonpaddingleft="10"
-		selectbuttonpaddingbottom="10" selectbuttonorientation="center"
+		selectbuttonspacing="5" selectbuttonpaddingleft="0"
+		selectbuttonpaddingbottom="0" selectbuttonorientation="center"
 		selectbuttonstyle="dark" imageshadowopacity="0.8" imageshadowblur="15"
-		imageshadowcolor="0x000000" imageshadowdistance="15" imageshadowangle="90"
+		imageshadowcolor="0x000000" imageshadowdistance="0" imageshadowangle="0"
 		timerbarpos="bottom" timerbarheight="3" timerbarcolor="0xffffff"
 		timerbaropacity="0.2"></creativebanner>
-	<contenttext contentheight="0" contenttopdistance="0"
-		contentbgtexthpadding="20" contentbgtextvpadding="20" contentbgcolor="0x1e1a17"
+	<contenttext contentheight="1000" contenttopdistance="0"
+		contentbgtexthpadding="0" contentbgtextvpadding="0" contentbgcolor="0x1e1a17"
 		contentbgopacity="0.9" contentbgrounded="10" contentscrollbarcolor="0x686868"
 		contentscrollbarwidth="10" contentscrollbarheight="80"
 		contentscrollbarrounded="0" contentscrollbaropacity="0.2"
-		contentscrollamount="80" contentscrollease="4" textfieldheight="600">
+		contentscrollamount="80" contentscrollease="4" textfieldheight="1000">
 	<![CDATA[
 		<contentheadline1>A Pleasant and Elegant Ambience coupled with the Finest Foods</contentheadline1>
 		
-		<a href="www.baidu.com">
-		sadsadas
-		<!-- <img align="left" src="images/1.gif" hspace="20" vspace="5"/> -->
-		</a>
+		
+		
+		
 		<content>
+		<img align="left" src="images/yjcs.png" hspace="0" vspace="5"/> 
 		</content>
 	]]>
+	
 	</contenttext>
+	
 </welcomepage>
