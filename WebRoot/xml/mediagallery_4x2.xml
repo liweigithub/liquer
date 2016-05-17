@@ -44,22 +44,22 @@
 
 	<category title="图片">
 
-		<entry entrytype="image" entrylink="images/p1.jpg"
-			entrythumblink="thumbs/l1.jpg" videopreviewimage="">
+		<entry entrytype="image" entrylink="images/jwh/TB2jX3TfpXXXXa6XpXXXXXXXXXX_!!2129611579 (1).jpg"
+			entrythumblink="images/thumbs/news1.jpg" videopreviewimage="">
 		<![CDATA[
 		<h1>这是一个 HTML/CSS style formatted caption text</h1><p>You can combine several styles and also add <a href="http://activeden.net/user/damojo">URL-links</a></p>
 		]]>
 		</entry>
 
-		<entry entrytype="image" entrylink="images/p2.jpg"
-			entrythumblink="thumbs/l2.jpg" videopreviewimage="">
+		<entry entrytype="image" entrylink="images/jwh/TB2heDoiXXXXXXVXpXXXXXXXXXX_!!1133196671.jpg"
+			entrythumblink="images/thumbs/teaser1.jpg" videopreviewimage="">
 		<![CDATA[
 		<h1>This is a HTML/CSS style formatted caption text</h1><p>You can combine several styles and also add <a href="http://activeden.net/user/damojo">URL-links</a></p>
 		]]>
 		</entry>
 
-		<entry entrytype="image" entrylink="images/p3.jpg"
-			entrythumblink="thumbs/l3.jpg" videopreviewimage="">
+		<entry entrytype="image" entrylink="images/jwh/17154255.jpg"
+			entrythumblink="images/thumbs/17154255.jpg" videopreviewimage="">
 		<![CDATA[
 		<h1>This is a HTML/CSS style formatted caption text</h1><p>You can combine several styles and also add <a href="http://activeden.net/user/damojo">URL-links</a></p>
 		]]>
@@ -67,33 +67,56 @@
 
 
 
-		<entry entrytype="image" entrylink="images/p4.jpg"
-			entrythumblink="thumbs/l4.jpg" videopreviewimage="">
+		<entry entrytype="image" entrylink="images/jwh/banner1.jpg"
+			entrythumblink="images/thumbs/TB2heDoiXXXXXXVXpXXXXXXXXXX_!!1133196671.jpg" videopreviewimage="">
 		<![CDATA[
 		<h1>This is a HTML/CSS style formatted caption text</h1><p>You can combine several styles and also add <a href="http://activeden.net/user/damojo">URL-links</a></p>
 		]]>
 		</entry>
 
-		<entry entrytype="image" entrylink="images/p5.jpg"
-			entrythumblink="thumbs/l5.jpg" videopreviewimage="">
+		<entry entrytype="image" entrylink="images/jwh/fm111158.jpg"
+			entrythumblink="images/thumbs/fm111158.jpg" videopreviewimage="">
 		<![CDATA[
 		<h1>This is a HTML/CSS style formatted caption text</h1><p>You can combine several styles and also add <a href="http://activeden.net/user/damojo">URL-links</a></p>
 		]]>
 		</entry>
 
-		<entry entrytype="image" entrylink="images/p5.jpg"
-			entrythumblink="thumbs/l5.jpg" videopreviewimage="">
+		<entry entrytype="image" entrylink="images/jwh/TB2w7VbgVXXXXXwXpXXXXXXXXXX_!!738120190.jpg"
+			entrythumblink="images/thumbs/teaser6.jpg" videopreviewimage="">
 		<![CDATA[
 		<h1>This is a HTML/CSS style formatted caption text</h1><p>You can combine several styles and also add <a href="http://activeden.net/user/damojo">URL-links</a></p>
 		]]>
 		</entry>
+		
+		<entry entrytype="image" entrylink="images/jwh/153617.jpg"
+			entrythumblink="images/thumbs/153617.jpg" videopreviewimage="">
+		
+		<![CDATA[
+		<h1>This is a HTML/CSS style formatted caption text</h1><p>You can combine several styles and also add <a href="http://activeden.net/user/damojo">URL-links</a></p>
+		]]>
+		</entry>
+		
+		<entry entrytype="image" entrylink="images/jwh/bg.jpg"
+			entrythumblink="images/thumbs/teaser2.jpg" videopreviewimage="">
+		<![CDATA[
+		<h1>This is a HTML/CSS style formatted caption text</h1><p>You can combine several styles and also add <a href="http://activeden.net/user/damojo">URL-links</a></p>
+		]]>
+		</entry>
+	
 
+	
+		<entry entrytype="image" entrylink="images/jwh/9.jpg"
+			entrythumblink="images/thumbs/13335045.jpg" videopreviewimage="">
+		<![CDATA[
+		<h1>This is a HTML/CSS style formatted caption text</h1><p>You can combine several styles and also add <a href="http://activeden.net/user/damojo">URL-links</a></p>
+		]]>
+		</entry>
 	</category>
 
 
 	<category title="视频">
-		<entry entrytype="video" entrylink="video/lomostripes.flv"
-			entrythumblink="thumbs/flv_l.jpg" videopreviewimage="previewimage/lomostripes.jpg">
+		<entry entrytype="video" entrylink="http://cloud.video.taobao.com/play/u/118955310/p/1/e/1/t/6/14551306.swf"
+			entrythumblink="images/thumbs/flv_l.jpg" videopreviewimage="previewimage/lomostripes.jpg">
 		<![CDATA[
 		<h1>This is a HTML/CSS style formatted caption text</h1><p>You can combine several styles and also add <a href="http://activeden.net/user/damojo">URL-links</a></p>
 		]]>
